@@ -53,7 +53,7 @@
 ## 2026年10大稳定好用的机场推荐节点分享
 
 ### 1. 魔戒机场
-最新官网地址：[mojie.co](https://mojie.co)   
+最新官网地址：[mojie.co](https://mojie.co/#/register?code=wfVs0vWP)   
 优势：不限时，可1元购买。备用机场之王。
 
 ---
