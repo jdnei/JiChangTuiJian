@@ -54,13 +54,13 @@
 
 ### 1. 魔戒机场
 最新官网地址：[mojie.co](https://mojie.co/#/register?code=wfVs0vWP)   
-优势：不限时，可1元购买。备用机场之王。
+优势：提供不限时套餐，可1元购买。备用机场之王。
 
 ---
 
 ### 2. 奈云机场
 最新官网地址：[www.v2ny.me](https://v13.v2ny.me/?path=register&code=KacwlzHN)   
-优势：提供149个节点，带很多冷门地区，尼日利亚，土耳其等等不太常用且实用的节点。
+优势：提供58个节点，带很多冷门地区，尼日利亚，土耳其等等不太常用且实用的节点。还带5条家宽！
 
 ---
 
@@ -78,7 +78,7 @@
 
 ### 5. 飞鸟云机场
 官网最新地址： [flyingbird.cc](https://fbinv02.fbaff.cc/auth/register?code=T7N16oUx)  
-优势：便宜大碗
+优势：只能客户端了，不会用FQ软件的推荐
 
 ---
 
