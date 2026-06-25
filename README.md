@@ -7,10 +7,7 @@
 - 相比较来说直连机场更加推荐购买中转机场。中转机场带宽大，专线主要是不过墙延迟低，专线机场在日常使用过程中会更丝滑更舒服。机场比的是钞能力啦，速度需要看机场的总的带宽大小。稳定呢要看机场大佬的资源质量，主要是看机场主的上游的线路质量，解锁看的是机场主的落地/解锁商是否优秀。机场带宽大和稳定性最重要。
 - 对于中转机场而言，显然协议不是最重要的，中转机子的稳定性和带宽大小才是。
 - 备用备用特别重要，如果经常需要科学上网，那么就不能只有一个机场，必须多买几个备用机场。
-
 ## 客户端推荐
-
-### 快速导航
 | 客户端                 | Windows |  <img width=5/>macOS<img width=5/>  |  <img width=11/>Linux<img width=11/>  |   <img width=19/>iOS<img width=19/>   | <img width=3/>Android<img width=3/> | <img width=7/>路由器<img width=7/> |
 |------------------------|---------|-------|-------|-----|---------|-----|
 | [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=jichangtuijian)      |         |       |       |     | ✔       |     |
@@ -48,7 +45,10 @@
 | [V2rayU](https://v2rayu.org/?utm_source=github&utm_medium=jichangtuijian)                 |         | ✔     |       |     |         |     |
 | [WinXray](https://winxray.org/?utm_source=github&utm_medium=jichangtuijian)                | ✔       |       |       |     |         |     |
 
+## Telegram VPN 机场福利社 #AD
+[机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
 
+[https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 
 ## 2026年10大稳定好用的机场推荐节点分享
 
