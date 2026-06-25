@@ -55,56 +55,64 @@
 ### 1. 魔戒机场
 最新官网地址：[mojie.co](https://mojie.co/#/register?code=wfVs0vWP)</br>
 ❌周期性套餐丨✅不限时套餐丨❌家宽</br>
-优势：提供不限时套餐，可1元购买。备用机场之王。
+优势：提供不限时套餐，可1元购买。备用机场之王。</br>
+✅[测评](https://github.com/jdnei/mojie)</br>
 
 ---
 
 ### 2. 奈云机场
 最新官网地址：[www.v2ny.me](https://v13.v2ny.me/?path=register&code=KacwlzHN)</br>
 ✅周期性套餐丨✅不限时套餐丨✅家宽</br>
-优势：提供58+节点，带很多冷门地区，尼日利亚，土耳其等等不太常用且实用的节点。还带5条家宽！
+优势：提供58+节点，带很多冷门地区，尼日利亚，土耳其等等不太常用且实用的节点。还带5条家宽！</br>
+✅[测评](https://github.com/jdnei/naiyun)</br>
 
 ---
 
 ### 3. Mitce机场
 最新官网地址：[mitce.io](https://mitce.io/aff.php?aff=10724)</br>
 ✅周期性套餐丨❌不限时套餐丨✅家宽</br>
-优势：包括常用的节点，还另外提供香港HK的家宽节点，有需求的可以订阅。
+优势：包括常用的节点，还另外提供香港HK的家宽节点，有需求的可以订阅。</br>
+✅[测评](https://github.com/jdnei/mitce)</br>
 
 ---
 
 ### 4. 良心云机场
 最新官网地址：[良心云.com](https://xn--9kqz23b19z.com/#/register?code=vcnG7fqh)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
-优势：最近GFW封的厉害，他家很强
+优势：最近GFW封的厉害，他家很强</br>
+✅[测评](https://github.com/jdnei/liangxin)</br>
 
 ---
 
 ### 5. 飞鸟云机场
 官网最新地址： [flyingbird.cc](https://fbinv02.fbaff.cc/auth/register?code=T7N16oUx)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅客户端</br>
-优势：只能客户端了，不会用FQ软件的推荐
+优势：只能客户端了，不会用FQ软件的推荐</br>
+✅[测评](https://github.com/jdnei/flyingbird)</br>
 
 ---
 
 ### 6. 花云机场
 官网最新地址：[flowercloud.net](https://api-flowercloud.com/aff.php?aff=20149)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
-优势：老牌专线，和奶昔一样，技术强，不跑路
+优势：老牌专线，和奶昔一样，技术强，不跑路,不差钱直接上</br>
+✅[测评](https://github.com/jdnei/FlowerCloud)</br>
 
 ---
 
 ### 7. 奶昔机场
 官网最新地址：[nxonearth.com](https://nxonearth.com/signupbyemail.aspx?MemberCode=71c53b664dfa4413b7b34ffd5cd11f5820230223165339)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
-优势：老牌专线，和花云一样，技术强，信得过
+优势：老牌专线，和花云一样，技术强，信得过，不差钱直接上</br>
+✅[测评](https://github.com/jdnei/naixi)</br>
 
 ---
 
 ### 8.一分机场
 官网最新地址：[一分机场.com](https://xn--4gqx1hgtfdmt.com/#/register?code=cJliFFca)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽</br>
-优势：入门性价比，便宜，对质量要求不高的可以选
+优势：入门性价比，便宜，对质量要求不高的可以选</br>
+✅[测评](https://github.com/jdnei/yifen)</br>
 
 ---
 
