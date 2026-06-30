@@ -51,6 +51,7 @@
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 
 ## 2026年10大稳定好用的机场推荐节点分享
+`机场跑路是常态情况，请谨慎购买长套餐`
 
 ### 1. 魔戒机场
 最新官网地址：[mojie.co](https://mojie.co/#/register?code=wfVs0vWP)</br>
@@ -85,31 +86,7 @@
 
 ---
 
-### 5. 飞鸟云机场
-官网最新地址： [flyingbird.cc](https://fbinv02.fbaff.cc/auth/register?code=T7N16oUx)</br>
-✅周期性套餐丨❌不限时套餐丨❌家宽丨✅客户端</br>
-优势：只能客户端了，不会用FQ软件的推荐</br>
-✅[测评](https://github.com/jdnei/flyingbird)</br>
-
----
-
-### 6. 花云机场
-官网最新地址：[flowercloud.net](https://api-flowercloud.com/aff.php?aff=20149)</br>
-✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
-优势：老牌专线，和奶昔一样，技术强，不跑路,不差钱直接上</br>
-✅[测评](https://github.com/jdnei/FlowerCloud)</br>
-
----
-
-### 7. 奶昔机场
-官网最新地址：[nxonearth.com](https://nxonearth.com/signupbyemail.aspx?MemberCode=71c53b664dfa4413b7b34ffd5cd11f5820230223165339)</br>
-✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
-优势：老牌专线，和花云一样，技术强，信得过，不差钱直接上</br>
-✅[测评](https://github.com/jdnei/naixi)</br>
-
----
-
-### 8.一分机场
+### 5.一分机场
 官网最新地址：[一分机场.com](https://xn--4gqx1hgtfdmt.com/#/register?code=cJliFFca)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽</br>
 优势：入门性价比，便宜，对质量要求不高的可以选</br>
@@ -117,16 +94,41 @@
 
 ---
 
-### 9. 赔钱机场
+### 6. 赔钱机场
 官网最新地址：[赔钱机场.com](https://dash.pqjc.site/register?code=b3k7GrOC&cover=sfw)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽</br>
 优势：入门性价比，便宜，对质量要求不高的可以选</br>
 ✅[测评](https://github.com/jdnei/peiqianjichang)</br>
 
 ---
+### 7. 飞鸟云机场
+官网最新地址： [flyingbird.cc](https://fbinv02.fbaff.cc/auth/register?code=T7N16oUx)</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽丨✅客户端</br>
+优势：只能客户端了，不会用FQ软件的推荐</br>
+✅[测评](https://github.com/jdnei/flyingbird)</br>
 
-### 10. 
-官网最新地址：
-优势：
+---
+
+### 8. WgetCloud机场
+官网最新地址：[wgetcloud.ltd](https://invite.wgetcloud.ltd/auth/register?code=EAv6F4)
+✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
+优势：有专线，缺点贵</br>
+✅[测评](https://github.com/jdnei/WgetCloud)
+
+---
+
+### 9. 花云机场
+官网最新地址：[flowercloud.net](https://api-flowercloud.com/aff.php?aff=20149)</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
+优势：老牌专线，和奶昔一样，技术强，不跑路,不差钱直接上</br>
+✅[测评](https://github.com/jdnei/FlowerCloud)</br>
+
+---
+
+### 10. 奶昔机场
+官网最新地址：[nxonearth.com](https://nxonearth.com/signupbyemail.aspx?MemberCode=71c53b664dfa4413b7b34ffd5cd11f5820230223165339)</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
+优势：老牌专线，和花云一样，技术强，信得过，不差钱直接上</br>
+✅[测评](https://github.com/jdnei/naixi)</br>
 
 ---
