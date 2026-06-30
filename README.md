@@ -61,9 +61,10 @@
 ---
 
 ### 2. 奈云机场
-最新官网地址：[www.v2ny.me](https://v13.v2ny.me/?path=register&code=KacwlzHN)</br>
-✅周期性套餐丨✅不限时套餐丨✅家宽</br>
-优势：提供58+节点，带很多冷门地区，尼日利亚，土耳其等等不太常用且实用的节点。还带5条家宽！</br>
+`突发失联，疑似跑路`</br>
+~~最新官网地址：[www.v2ny.me](https://v13.v2ny.me/?path=register&code=KacwlzHN)</br>~~
+~~✅周期性套餐丨✅不限时套餐丨✅家宽</br>~~
+~~优势：提供58+节点，带很多冷门地区，尼日利亚，土耳其等等不太常用且实用的节点。还带5条家宽！</br>~~
 ✅[测评](https://github.com/jdnei/naiyun)</br>
 
 ---
