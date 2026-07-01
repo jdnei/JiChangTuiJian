@@ -63,6 +63,7 @@
 
 ### 2. 奈云机场
 `6.30突发失联，疑似跑路，7.1新官网出现，账户数据都在，近期改过密码的用老密码登,套餐数据还在等官方恢复`</br>
+账号套餐恢复教程：[recovery](https://github.com/jdnei/naiyun#recovery)</br>
 最新官网地址：[naiun.io](https://naiun.io/?path=register&code=KacwlzHN)</br>
 ✅周期性套餐丨✅不限时套餐丨✅家宽</br>
 优势：提供58+节点，带很多冷门地区，尼日利亚，土耳其等等不太常用且实用的节点。还带5条家宽！</br>
