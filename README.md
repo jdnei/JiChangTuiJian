@@ -111,7 +111,7 @@
 ---
 
 ### 8. WgetCloud机场
-官网最新地址：[wgetcloud.ltd](https://invite.wgetcloud.ltd/auth/register?code=EAv6F4)
+官网最新地址：[wgetcloud.ltd](https://invite.wgetcloud.ltd/auth/register?code=EAv6F4)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：有专线，缺点贵</br>
 ✅[测评](https://github.com/jdnei/WgetCloud)
