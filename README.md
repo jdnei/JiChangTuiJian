@@ -8,6 +8,9 @@
 - 对于中转机场而言，显然协议不是最重要的，中转机子的稳定性和带宽大小才是。
 - 备用备用特别重要，如果经常需要科学上网，那么就不能只有一个机场，必须多买几个备用机场。
 ## 客户端推荐
+<details>
+<summary><strong>点击展开客户端列表</strong></summary> 
+
 | 客户端                 | Windows |  <img width=5/>macOS<img width=5/>  |  <img width=11/>Linux<img width=11/>  |   <img width=19/>iOS<img width=19/>   | <img width=3/>Android<img width=3/> | <img width=7/>路由器<img width=7/> |
 |------------------------|---------|-------|-------|-----|---------|-----|
 | [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=jichangtuijian)      |         |       |       |     | ✔       |     |
@@ -44,6 +47,8 @@
 | [v2rayNG](https://v2rayng.org/?utm_source=github&utm_medium=jichangtuijian)                |         |       |       |     | ✔       |     |
 | [V2rayU](https://v2rayu.org/?utm_source=github&utm_medium=jichangtuijian)                 |         | ✔     |       |     |         |     |
 | [WinXray](https://winxray.org/?utm_source=github&utm_medium=jichangtuijian)                | ✔       |       |       |     |         |     |
+
+</details>
 
 ## Telegram VPN 机场福利社 #AD
 [机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
