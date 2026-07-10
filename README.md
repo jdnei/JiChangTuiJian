@@ -110,7 +110,7 @@
 
 ---
 ### 8. 飞鸟云机场
-官网最新地址： [flyingbird.cc](https://fbinv02.fbaff.cc/auth/register?code=T7N16oUx)</br>
+官网最新地址：[fbweb03.flyingbird.la](https://fbweb03.flyingbird.la/auth/register?code=T7N16oUx)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅客户端</br>
 优势：只能客户端了，不会用FQ软件的推荐</br>
 ✅[测评](https://github.com/jdnei/flyingbird)</br>
