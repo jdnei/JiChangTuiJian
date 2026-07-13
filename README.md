@@ -95,7 +95,7 @@
 官网最新地址：[吹雪云.com](https://xn--9kqs1lo79d.com/#/register?code=RRAhwArP)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：良心云的竞争对手，主打便宜大碗，月付不怕跑路</br>
-✅[测评](https://github.com/jdnei/flyingbird)</br>
+✅[测评](https://github.com/jdnei/chuixuecloud)</br>
 
 ---
 
