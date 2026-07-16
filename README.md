@@ -56,7 +56,8 @@
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 
 ## 2026年10大稳定好用的机场推荐节点分享
-`⚠️：任何机场都有随时跑路的可能，怕跑路用月付，图便宜用年付，但风险自担。`
+> [!NOTE]
+> 任何机场都有随时跑路的可能，怕跑路用月付，图便宜用年付，但风险自担。
 
 ### 1. 魔戒机场
 最新官网地址：[mojie.co](https://mojie.co/#/register?code=wfVs0vWP)</br>
