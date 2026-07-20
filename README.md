@@ -102,6 +102,13 @@
 ✅[测评](https://github.com/jdnei/chuixuecloud)</br>
 
 ---
+### 6. 狗狗加速机场
+官网最新地址：[狗狗加速.com](https://inv.dginv.click/#/register?code=h8qqU0Dh) </br>
+✅周期性套餐丨❌不限时套餐丨❌家宽</br>
+优势：速度中规中矩，图个省心，老牌子机场算便宜的</br>
+✅[测评](https://github.com/jdnei/gougou)</br>
+
+---
 
 ### 6.一分机场
 官网最新地址：[一分机场.com](https://xn--4gqx1hgtfdmt.com/#/register?code=cJliFFca)</br>
