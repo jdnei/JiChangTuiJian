@@ -63,7 +63,7 @@
 > 任何机场都有随时跑路的可能，怕跑路用月付，图便宜用年付，但风险自担。
 
 ### 01. 魔戒机场
-最新官网地址：[mojie.co](https://mojie.co/#/register?code=wfVs0vWP)</br>
+最新官网地址：[mojie.co](https://to.iix.im/mj10)</br>
 ❌周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：提供不限时套餐，可1元购买。备用机场之王。</br>
 ✅[测评](https://github.com/jdnei/mojie)</br>
