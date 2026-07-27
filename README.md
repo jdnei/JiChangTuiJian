@@ -89,7 +89,7 @@
 ---
 
 ### 04. 良心云机场
-最新官网地址：[良心云.com](https://xn--9kqz23b19z.com/#/register?code=vcnG7fqh)</br>
+最新官网地址：[良心云.com](https://to.iix.im/lx01)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：最近GFW封的厉害，他家很强</br>
 ✅[测评](https://github.com/jdnei/liangxin)</br>
