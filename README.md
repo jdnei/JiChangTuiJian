@@ -103,7 +103,7 @@
 
 ---
 ### 06. 狗狗加速机场
-官网最新地址：[狗狗加速.com](https://inv.dginv.click/#/register?code=h8qqU0Dh) </br>
+官网最新地址：[狗狗加速.com](https://to.iix.im/gg01) </br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽</br>
 优势：速度中规中矩，图个省心，老牌子机场算便宜的</br>
 ✅[测评](https://github.com/jdnei/gougou)</br>
@@ -111,7 +111,7 @@
 ---
 
 ### 07.一分机场
-官网最新地址：[一分机场.com](https://xn--4gqx1hgtfdmt.com/#/register?code=cJliFFca)</br>
+官网最新地址：[一分机场.com](https://to.iix.im/yf01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽</br>
 优势：入门性价比，便宜，对质量要求不高的可以选</br>
 ✅[测评](https://github.com/jdnei/yifen)</br>
@@ -119,7 +119,7 @@
 ---
 
 ### 08. 赔钱机场
-官网最新地址：[赔钱机场.com](https://dash.pqjc.site/register?code=b3k7GrOC&cover=sfw)</br>
+官网最新地址：[赔钱机场.com](https://to.iix.im/pq01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽</br>
 优势：入门性价比，便宜，对质量要求不高的可以选</br>
 ✅[测评](https://github.com/jdnei/peiqianjichang)</br>
