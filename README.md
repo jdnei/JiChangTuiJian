@@ -70,21 +70,19 @@
 
 ---
 
-### 02. 奈云机场
-`6.30失联。7.1新官网上线，海外团队接管。7.5博主年付套餐已恢复。`</br>
-账号套餐恢复教程：[recovery](https://github.com/jdnei/naiyun#recovery)</br>
-最新官网地址：[naiun.io](https://to.iix.im/ny10)</br>
-✅周期性套餐丨✅不限时套餐丨❌家宽</br>
-优势：提供58+节点，带很多冷门地区，尼日利亚，土耳其等等不太常用且实用的节点。还带~~5条家宽~~！</br>
-✅[测评](https://github.com/jdnei/naiyun)</br>
+### 02. 八戒机场
+最新官网地址：[bajie.la](https://to.iix.im/bj01)</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽</br>
+优势：提供不限时套餐，可1元购买。备用机场，和魔戒对标</br>
+✅[测评](https://github.com/jdnei/bajie)</br>
 
 ---
 
-### 03. Mitce机场
-最新官网地址：[mitce.io](https://to.iix.im/mt01)</br>
-✅周期性套餐丨❌不限时套餐丨✅家宽丨✅无限流量</br>
-优势：包括常用的节点，还另外提供香港HK的家宽节点，带无限流量的套餐，有需求的可以订阅。</br>
-✅[测评](https://github.com/jdnei/mitce)</br>
+### 03. m78星云机场
+官网最新地址：[www.m78.pro](https://to.iix.im/xy03)</br>
+✅周期性套餐丨✅不限时套餐丨❌家宽丨✅Emby服务</br>
+优势：提供正常节点外，可以同时开通Emby观影账号，爱看电影的首选，省一大笔</br>
+✅[测评](https://github.com/jdnei/m78)</br>
 
 ---
 
@@ -142,7 +140,26 @@
 
 ---
 
-### 11. WgetCloud机场
+### 11. 奈云机场
+`6.30失联。7.1新官网上线，海外团队接管。7.5博主年付套餐已恢复。`</br>
+账号套餐恢复教程：[recovery](https://github.com/jdnei/naiyun#recovery)</br>
+最新官网地址：[naiun.io](https://to.iix.im/ny10)</br>
+✅周期性套餐丨✅不限时套餐丨❌家宽</br>
+优势：提供58+节点，带很多冷门地区，尼日利亚，土耳其等等不太常用且实用的节点。还带~~5条家宽~~！</br>
+✅[测评](https://github.com/jdnei/naiyun)</br>
+
+---
+
+### 12. Mitce机场
+最新官网地址：[mitce.io](https://to.iix.im/mt01)</br>
+✅周期性套餐丨❌不限时套餐丨✅家宽丨✅无限流量</br>
+优势：包括常用的节点，还另外提供香港HK的家宽节点，带无限流量的套餐，有需求的可以订阅。</br>
+✅[测评](https://github.com/jdnei/mitce)</br>
+
+
+---
+
+### 13. WgetCloud机场
 官网最新地址：[wgetcloud.ltd](https://invite.wgetcloud.ltd/auth/register?code=EAv6F4)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：有专线，缺点贵</br>
@@ -150,7 +167,7 @@
 
 ---
 
-### 12. TAG专线机场
+### 14. TAG专线机场
 官网最新地址：[tagss.pro](https://to.iix.im/tag03)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：有专线，有冷门节点，不喜欢花云奶昔的plan B</br>
@@ -158,7 +175,7 @@
 
 ---
 
-### 13. Ytoo专线机场
+### 15. Ytoo专线机场
 官网最新地址：[y-too.net](https://to.iix.im/yt01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：有专线，有冷门节点，不喜欢花云奶昔的plan B</br>
@@ -166,7 +183,7 @@
 
 ---
 
-### 14. 花云机场
+### 16. 花云机场
 官网最新地址：[flowercloud.net](https://api-flowercloud.com/aff.php?aff=20149)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌专线，和奶昔一样，技术强，不跑路,不差钱直接上</br>
@@ -174,7 +191,7 @@
 
 ---
 
-### 15. 奶昔机场
+### 17. 奶昔机场
 官网最新地址：[nxonearth.com](https://nxonearth.com/signupbyemail.aspx?MemberCode=71c53b664dfa4413b7b34ffd5cd11f5820230223165339)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌专线，和花云一样，技术强，信得过，不差钱直接上</br>
