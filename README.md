@@ -79,7 +79,7 @@
 ---
 
 ### 03. m78星云机场
-官网最新地址：[www.m78.pro](https://to.iix.im/xy03)</br>
+官网最新地址：[www.m78.pro](https://to.iix.im/xy03)（ 中国大陆无法访问 ）</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽丨✅Emby服务</br>
 优势：提供正常节点外，可以同时开通Emby观影账号，爱看电影的首选，省一大笔</br>
 ✅[测评](https://github.com/jdnei/m78)</br>
