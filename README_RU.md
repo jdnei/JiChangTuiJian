@@ -1,150 +1,220 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
-# Рекомендуемые VPN-сервисы и общие узлы на 2026 год (обновлено 20 июля 2026 года)
+# Рекомендации лучших VPN-сервисов и прокси-узлов 2026 года(Обновлено 4 августа 2026 года)
 
 ## Введение
-Делимся актуальными рекомендациями VPN-сервисов и узлов на 2026 год. Здесь собраны свежие обзоры, официальные адреса сайтов, тарифы со скидками, краткие описания сервисов и другая полезная информация.
 
-## Что нужно знать перед выбором VPN-сервиса
-- По сравнению с сервисами прямого подключения обычно лучше выбирать сервисы с промежуточными серверами. У таких сервисов, как правило, выше пропускная способность, а выделенные линии обеспечивают меньшую задержку, поскольку трафик не проходит напрямую через межсетевой экран. В повседневном использовании выделенные линии обычно работают более плавно и комфортно. В конечном счёте качество VPN-сервиса зависит от финансовых возможностей владельца. Скорость определяется общей пропускной способностью сервиса, а стабильность — качеством его инфраструктуры и вышестоящих маршрутов. Возможность разблокировки стриминговых платформ и регионального контента зависит от качества выходных узлов и поставщиков услуг разблокировки. Самыми важными факторами являются высокая пропускная способность и стабильность.
-- Для сервисов с промежуточными серверами протокол явно не является самым важным фактором. Гораздо важнее стабильность и пропускная способность промежуточных серверов.
-- Резервные сервисы крайне важны. При регулярном использовании свободного доступа к Интернету не следует полагаться только на один VPN-сервис. Лучше приобрести несколько резервных подписок.
+Представляем актуальные рекомендации VPN/прокси-сервисов и узлов на 2026 год. Здесь собраны свежие рекомендации и обзоры сервисов, актуальные адреса официальных сайтов, выгодные тарифные планы, краткие описания и другая полезная информация.
 
-## Рекомендуемые клиенты
+## Что нужно знать перед выбором сервиса
+
+* В целом по сравнению с сервисами с прямым подключением рекомендуется выбирать сервисы с транзитными/промежуточными серверами. У таких сервисов обычно выше пропускная способность. Выделенные линии в первую очередь позволяют получить более низкую задержку и более комфортное соединение, поэтому в повседневном использовании они обычно работают плавнее и стабильнее. В конечном итоге качество сервиса во многом зависит от того, сколько средств его владелец вкладывает в инфраструктуру. Скорость зависит главным образом от общей пропускной способности сервиса. Стабильность — от качества вышестоящих сетевых ресурсов и маршрутов. Возможность разблокировки стриминговых сервисов и регионального контента зависит от качества выходных узлов и поставщиков услуг разблокировки.
+* Для сервисов с транзитными серверами используемый протокол обычно не является самым важным фактором. Гораздо важнее стабильность промежуточных серверов и доступная пропускная способность.
+* Резервные сервисы очень важны. Если вам регулярно нужен доступ к свободному интернету, не стоит полагаться только на один сервис. Лучше иметь несколько резервных вариантов.
+
+## Рекомендуемые клиентские приложения
+
 <details>
 <summary><strong>Нажмите, чтобы развернуть список клиентов</strong></summary> 
 
-| Клиент                 | Windows |  <img width=5/>macOS<img width=5/>  |  <img width=11/>Linux<img width=11/>  |   <img width=19/>iOS<img width=19/>   | <img width=3/>Android<img width=3/> | <img width=7/>Роутер<img width=7/> |
-|------------------------|---------|-------|-------|-----|---------|-----|
-| [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=jichangtuijian)      |         |       |       |     | ✔       |     |
-| [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangtuijian)      | ✔       | ✔     | ✔     |     |         |     |
-| [Clash Meta For Android](https://clashmetaforandroid.org/?utm_source=github&utm_medium=jichangtuijian) |         |       |       |     | ✔       |     |
-| [Clash Mi](https://clash-mi.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     | ✔       | ✔   | ✔       |     |
-| [Clash Nyanpasu](https://clashnyanpasu.org/?utm_source=github&utm_medium=jichangtuijian)         | ✔       | ✔     | ✔     |     |         |     |
-| [Clash Party](https://clash-party.org/?utm_source=github&utm_medium=jichangtuijian)            | ✔       | ✔     | ✔     |     |         |     |
-| [Clash Verge](https://clashverge.org/?utm_source=github&utm_medium=jichangtuijian)            | ✔       | ✔     | ✔     |     |         |     |
-| [Clash Verge Rev](https://clashvergerev.org/?utm_source=github&utm_medium=jichangtuijian)        | ✔       | ✔     | ✔     |     |         |     |
-| [ClashN](https://getclashn.org/?utm_source=github&utm_medium=jichangtuijian)                 | ✔       |       |       |     |         |     |
-| [ClashX](https://clashx.org/?utm_source=github&utm_medium=jichangtuijian)                 |         | ✔     |       |     |         |     |
-| [ClashX Meta](https://clashxmeta.org/?utm_source=github&utm_medium=jichangtuijian)            |         | ✔     |       |     |         |     |
-| [ClashX Pro](https://clashxpro.org/?utm_source=github&utm_medium=jichangtuijian)             |         | ✔     |       |     |         |     |
-| [FlClash](https://getflclash.org/?utm_source=github&utm_medium=jichangtuijian)                | ✔       | ✔     | ✔     |     | ✔       |     |
-| [Hiddify](https://gethiddify.org/?utm_source=github&utm_medium=jichangtuijian)           | ✔       | ✔     | ✔     | ✔   | ✔       |     |
-| [Mihomo Party](https://mihomo-party.org/?utm_source=github&utm_medium=jichangtuijian)           | ✔       | ✔     | ✔     |     |         |     |
-| [NekoBox for Android](https://nekoboxforandroid.org/?utm_source=github&utm_medium=jichangtuijian)    |         |       |       |     | ✔       |     |
-| [NekoRay](https://nekoray.org/?utm_source=github&utm_medium=jichangtuijian)                | ✔       |       | ✔     |     |         |     |
-| [OpenClash](https://openclash.org/?utm_source=github&utm_medium=jichangtuijian)              |         |       |       |     |         | ✔   |
-| [PassWall2](https://passwall2.org/?utm_source=github&utm_medium=jichangtuijian)              |         |       |       |     |         | ✔   |
-| [Potatso Lite](https://potatso.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       | ✔   |         |     |
-| [Karing](https://getkaring.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     | ✔       | ✔   | ✔       |     |
-| [Loon](https://getloon.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       | ✔   |         |     |
-| [Quantumult](https://quantumult.org/?utm_source=github&utm_medium=jichangtuijian)             |         |       |       | ✔   |         |     |
-| [Quantumult X](https://quantumultx.org/?utm_source=github&utm_medium=jichangtuijian)           |         | ✔     |       | ✔   |         |     |
-| [Shadowrocket](https://shadowrocketios.org/?utm_source=github&utm_medium=jichangtuijian)           |         | ✔       |       | ✔   |         |     |
-| [ShadowsocksR Plus+](https://ssrplus.org/?utm_source=github&utm_medium=jichangtuijian)     |         |       |       |     |         | ✔   |
-| [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     | ✔     | ✔   | ✔       |     |
-| [Stash](https://getstash.org/?utm_source=github&utm_medium=jichangtuijian)                  |         | ✔     |       | ✔   |         |     |
-| [Surfboard](https://getsurfboard.org/?utm_source=github&utm_medium=jichangtuijian)              |         |       |       |     | ✔       |     |
-| [Surge](https://nssurge.org/?utm_source=github&utm_medium=jichangtuijian)              |         | ✔     |       | ✔   |         |     |
-| [v2rayN](https://v2rayn.org/?utm_source=github&utm_medium=jichangtuijian)                 | ✔       | ✔       | ✔       |     |         |     |
-| [v2rayNG](https://v2rayng.org/?utm_source=github&utm_medium=jichangtuijian)                |         |       |       |     | ✔       |     |
-| [V2rayU](https://v2rayu.org/?utm_source=github&utm_medium=jichangtuijian)                 |         | ✔     |       |     |         |     |
-| [WinXray](https://winxray.org/?utm_source=github&utm_medium=jichangtuijian)                | ✔       |       |       |     |         |     |
+| Клиент                                                                                                 | Windows | <img width=5/>macOS<img width=5/> | <img width=11/>Linux<img width=11/> | <img width=19/>iOS<img width=19/> | <img width=3/>Android<img width=3/> | <img width=7/>Роутер<img width=7/> |
+| ------------------------------------------------------------------------------------------------------ | ------- | --------------------------------- | ----------------------------------- | --------------------------------- | ----------------------------------- | ---------------------------------- |
+| [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=jichangtuijian)          |         |                                   |                                     |                                   | ✔                                   |                                    |
+| [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangtuijian)          | ✔       | ✔                                 | ✔                                   |                                   |                                     |                                    |
+| [Clash Meta For Android](https://clashmetaforandroid.org/?utm_source=github&utm_medium=jichangtuijian) |         |                                   |                                     |                                   | ✔                                   |                                    |
+| [Clash Mi](https://clash-mi.org/?utm_source=github&utm_medium=jichangtuijian)                          | ✔       | ✔                                 | ✔                                   | ✔                                 | ✔                                   |                                    |
+| [Clash Nyanpasu](https://clashnyanpasu.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔                                 | ✔                                   |                                   |                                     |                                    |
+| [Clash Party](https://clash-party.org/?utm_source=github&utm_medium=jichangtuijian)                    | ✔       | ✔                                 | ✔                                   |                                   |                                     |                                    |
+| [Clash Verge](https://clashverge.org/?utm_source=github&utm_medium=jichangtuijian)                     | ✔       | ✔                                 | ✔                                   |                                   |                                     |                                    |
+| [Clash Verge Rev](https://clashvergerev.org/?utm_source=github&utm_medium=jichangtuijian)              | ✔       | ✔                                 | ✔                                   |                                   |                                     |                                    |
+| [ClashN](https://getclashn.org/?utm_source=github&utm_medium=jichangtuijian)                           | ✔       |                                   |                                     |                                   |                                     |                                    |
+| [ClashX](https://clashx.org/?utm_source=github&utm_medium=jichangtuijian)                              |         | ✔                                 |                                     |                                   |                                     |                                    |
+| [ClashX Meta](https://clashxmeta.org/?utm_source=github&utm_medium=jichangtuijian)                     |         | ✔                                 |                                     |                                   |                                     |                                    |
+| [ClashX Pro](https://clashxpro.org/?utm_source=github&utm_medium=jichangtuijian)                       |         | ✔                                 |                                     |                                   |                                     |                                    |
+| [FlClash](https://getflclash.org/?utm_source=github&utm_medium=jichangtuijian)                         | ✔       | ✔                                 | ✔                                   |                                   | ✔                                   |                                    |
+| [Hiddify](https://gethiddify.org/?utm_source=github&utm_medium=jichangtuijian)                         | ✔       | ✔                                 | ✔                                   | ✔                                 | ✔                                   |                                    |
+| [Mihomo Party](https://mihomo-party.org/?utm_source=github&utm_medium=jichangtuijian)                  | ✔       | ✔                                 | ✔                                   |                                   |                                     |                                    |
+| [NekoBox for Android](https://nekoboxforandroid.org/?utm_source=github&utm_medium=jichangtuijian)      |         |                                   |                                     |                                   | ✔                                   |                                    |
+| [NekoRay](https://nekoray.org/?utm_source=github&utm_medium=jichangtuijian)                            | ✔       |                                   | ✔                                   |                                   |                                     |                                    |
+| [OpenClash](https://openclash.org/?utm_source=github&utm_medium=jichangtuijian)                        |         |                                   |                                     |                                   |                                     | ✔                                  |
+| [PassWall2](https://passwall2.org/?utm_source=github&utm_medium=jichangtuijian)                        |         |                                   |                                     |                                   |                                     | ✔                                  |
+| [Potatso Lite](https://potatso.org/?utm_source=github&utm_medium=jichangtuijian)                       |         |                                   |                                     | ✔                                 |                                     |                                    |
+| [Karing](https://getkaring.org/?utm_source=github&utm_medium=jichangtuijian)                           | ✔       | ✔                                 | ✔                                   | ✔                                 | ✔                                   |                                    |
+| [Loon](https://getloon.org/?utm_source=github&utm_medium=jichangtuijian)                               |         |                                   |                                     | ✔                                 |                                     |                                    |
+| [Quantumult](https://quantumult.org/?utm_source=github&utm_medium=jichangtuijian)                      |         |                                   |                                     | ✔                                 |                                     |                                    |
+| [Quantumult X](https://quantumultx.org/?utm_source=github&utm_medium=jichangtuijian)                   |         | ✔                                 |                                     | ✔                                 |                                     |                                    |
+| [Shadowrocket](https://shadowrocketios.org/?utm_source=github&utm_medium=jichangtuijian)               |         | ✔                                 |                                     | ✔                                 |                                     |                                    |
+| [ShadowsocksR Plus+](https://ssrplus.org/?utm_source=github&utm_medium=jichangtuijian)                 |         |                                   |                                     |                                   |                                     | ✔                                  |
+| [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian)                          | ✔       | ✔                                 | ✔                                   | ✔                                 | ✔                                   |                                    |
+| [Stash](https://getstash.org/?utm_source=github&utm_medium=jichangtuijian)                             |         | ✔                                 |                                     | ✔                                 |                                     |                                    |
+| [Surfboard](https://getsurfboard.org/?utm_source=github&utm_medium=jichangtuijian)                     |         |                                   |                                     |                                   | ✔                                   |                                    |
+| [Surge](https://nssurge.org/?utm_source=github&utm_medium=jichangtuijian)                              |         | ✔                                 |                                     | ✔                                 |                                     |                                    |
+| [v2rayN](https://v2rayn.org/?utm_source=github&utm_medium=jichangtuijian)                              | ✔       | ✔                                 | ✔                                   |                                   |                                     |                                    |
+| [v2rayNG](https://v2rayng.org/?utm_source=github&utm_medium=jichangtuijian)                            |         |                                   |                                     |                                   | ✔                                   |                                    |
+| [V2rayU](https://v2rayu.org/?utm_source=github&utm_medium=jichangtuijian)                              |         | ✔                                 |                                     |                                   |                                     |                                    |
+| [WinXray](https://winxray.org/?utm_source=github&utm_medium=jichangtuijian)                            | ✔       |                                   |                                     |                                   |                                     |                                    |
 
 </details>
 
-## Telegram-группа с бонусами VPN #AD
-[Группа розыгрышей VPN](https://331024.de/archives/choujiang)｜[Чат о VPN](https://331024.de/archives/choujiang)｜[Группа тестирования VPN](https://331024.de/archives/choujiang)</br>
+## Telegram — сообщество VPN-сервисов #AD
 
-[https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
+[Группа с розыгрышами](https://331024.de/archives/choujiang)｜[Чат сообщества](https://331024.de/archives/choujiang)｜[Группа для тестирования сервисов](https://331024.de/archives/choujiang)</br>
 
-## 10 стабильных и удобных VPN-сервисов с общими узлами на 2026 год
+https://331024.de/archives/choujiang
+
+## Рекомендуемые стабильные VPN/прокси-сервисы 2026 года
+
 > [!NOTE]
-> Любой VPN-сервис может в любой момент закрыться или исчезнуть. Чтобы снизить риск, оплачивайте помесячно. Годовая подписка обходится дешевле, но все риски вы принимаете на себя.
+> Любой сервис может в любой момент прекратить работу или исчезнуть. Если вы опасаетесь такого риска, выбирайте ежемесячную оплату. Годовой тариф обычно дешевле, но все риски вы принимаете на себя.
 
-### 1. VPN-сервис Mojie
-Актуальный официальный сайт: [mojie.co](https://mojie.co/#/register?code=wfVs0vWP)</br>
-❌ Периодические тарифы丨✅ Бессрочные тарифы丨❌ Домашние IP-адреса</br>
-Преимущества: предлагает бессрочные тарифы стоимостью от 1 юаня. Один из лучших вариантов для резервного VPN.</br>
-✅ [Обзор](https://github.com/jdnei/mojie)</br>
+### 01. Mojie
 
----
-
-### 2. VPN-сервис Naiyun
-`30 июня сервис перестал отвечать. 1 июля появился новый официальный сайт, а управление перешло к зарубежной команде. 5 июля годовая подписка автора была восстановлена.`</br>
-Инструкция по восстановлению аккаунта и тарифа: [recovery](https://github.com/jdnei/naiyun#recovery)</br>
-Актуальный официальный сайт: [naiun.io](https://dash.naiun.io/?path=register&code=KacwlzHN)</br>
-✅ Периодические тарифы丨✅ Бессрочные тарифы丨✅ Домашние IP-адреса</br>
-Преимущества: более 58 узлов, включая множество редких регионов, например Нигерию и Турцию. Такие локации встречаются нечасто, но могут быть полезны. Также доступны пять маршрутов с домашними IP-адресами.</br>
-✅ [Обзор](https://github.com/jdnei/naiyun)</br>
+Актуальный официальный сайт: [mojie.co](https://to.iix.im/mj10)</br>
+❌ Периодические тарифы丨✅ Тарифы без срока действия丨❌ Residential IP</br>
+Преимущества: предлагает тарифы без срока действия, доступные от 1 юаня. Отличный вариант в качестве резервного сервиса.</br>
+✅[Обзор](https://github.com/jdnei/mojie)</br>
 
 ---
 
-### 3. VPN-сервис Mitce
-Актуальный официальный сайт: [mitce.io](https://mitce.io/aff.php?aff=10724)</br>
-✅ Периодические тарифы丨❌ Бессрочные тарифы丨✅ Домашние IP-адреса</br>
-Преимущества: кроме стандартных локаций, сервис предоставляет узлы с домашними IP-адресами Гонконга.</br>
-✅ [Обзор](https://github.com/jdnei/mitce)</br>
+### 02. Bajie
+
+Актуальный официальный сайт: [bajie.la](https://to.iix.im/bj01)</br>
+✅ Периодические тарифы丨✅ Тарифы без срока действия丨❌ Residential IP</br>
+Преимущества: можно приобрести тариф всего от 1 юаня. Хороший резервный вариант и прямой конкурент Mojie. Также доступны периодические тарифные планы.</br>
+✅[Обзор](https://github.com/jdnei/bajie)</br>
 
 ---
 
-### 4. VPN-сервис Liangxinyun
-Актуальный официальный сайт: [良心云.com](https://xn--9kqz23b19z.com/#/register?code=vcnG7fqh)</br>
-✅ Периодические тарифы丨✅ Бессрочные тарифы丨❌ Домашние IP-адреса</br>
-Преимущества: в последнее время блокировки GFW усилились, однако этот сервис показывает очень хорошие результаты.</br>
-✅ [Обзор](https://github.com/jdnei/liangxin)</br>
+### 03. M78 Nebula
+
+Актуальный официальный сайт: [www.m78.pro](https://to.iix.im/xy03)（недоступен напрямую из материкового Китая）</br>
+✅ Периодические тарифы丨✅ Тарифы без срока действия丨❌ Residential IP丨✅ Emby</br>
+Преимущества: помимо обычных прокси-узлов можно одновременно оформить аккаунт Emby для просмотра фильмов. Отличный вариант для любителей кино, позволяющий сэкономить на отдельной подписке.</br>
+✅[Обзор](https://github.com/jdnei/m78)</br>
 
 ---
 
-### 5. VPN-сервис Chuixueyun
+### 04. Liangxin Cloud
+
+Актуальный официальный сайт: [良心云.com](https://to.iix.im/lx01)</br>
+✅ Периодические тарифы丨✅ Тарифы без срока действия丨❌ Residential IP</br>
+Преимущества: несмотря на усиление блокировок GFW в последнее время, сервис показывает хорошую устойчивость. Также предоставляет специальные долгосрочные узлы для загрузок с коэффициентом расхода трафика 0,01x.</br>
+✅[Обзор](https://github.com/jdnei/liangxin)</br>
+
+---
+
+### 05. Chuixue Cloud
+
 Актуальный официальный сайт: [吹雪云.com](https://xn--9kqs1lo79d.com/#/register?code=RRAhwArP)</br>
-✅ Периодические тарифы丨✅ Бессрочные тарифы丨❌ Домашние IP-адреса</br>
-Преимущества: конкурент Liangxinyun, предлагающий низкие цены и большие объёмы трафика. Помесячная оплата снижает риск потери денег в случае закрытия сервиса.</br>
-✅ [Обзор](https://github.com/jdnei/chuixuecloud)</br>
+✅ Периодические тарифы丨✅ Тарифы без срока действия丨❌ Residential IP</br>
+Преимущества: конкурент Liangxin Cloud, ориентированный на доступные тарифы с большим объёмом трафика. Ежемесячная оплата позволяет снизить риск потерь в случае прекращения работы сервиса.</br>
+✅[Обзор](https://github.com/jdnei/chuixuecloud)</br>
 
 ---
 
-### 6. VPN-сервис Yifen
-Актуальный официальный сайт: [一分机场.com](https://xn--4gqx1hgtfdmt.com/#/register?code=cJliFFca)</br>
-✅ Периодические тарифы丨❌ Бессрочные тарифы丨❌ Домашние IP-адреса</br>
-Преимущества: недорогой вариант начального уровня. Подойдёт пользователям без высоких требований к качеству.</br>
-✅ [Обзор](https://github.com/jdnei/yifen)</br>
+### 06. Gougou Accelerator
+
+Актуальный официальный сайт: [狗狗加速.com](https://to.iix.im/gg01) </br>
+✅ Периодические тарифы丨❌ Тарифы без срока действия丨❌ Residential IP</br>
+Преимущества: скорость находится на среднем уровне, зато сервис простой и удобный. Это достаточно старый и проверенный провайдер с относительно доступными ценами.</br>
+✅[Обзор](https://github.com/jdnei/gougou)</br>
 
 ---
 
-### 7. VPN-сервис Peiqian
-Актуальный официальный сайт: [赔钱机场.com](https://dash.pqjc.site/register?code=b3k7GrOC&cover=sfw)</br>
-✅ Периодические тарифы丨❌ Бессрочные тарифы丨❌ Домашние IP-адреса</br>
-Преимущества: недорогой вариант начального уровня. Подойдёт пользователям без высоких требований к качеству.</br>
-✅ [Обзор](https://github.com/jdnei/peiqianjichang)</br>
+### 07. Yifen VPN
+
+Актуальный официальный сайт: [一分机场.com](https://to.iix.im/yf01)</br>
+✅ Периодические тарифы丨❌ Тарифы без срока действия丨❌ Residential IP</br>
+Преимущества: бюджетный сервис начального уровня с хорошим соотношением цены и возможностей. Подойдёт пользователям без высоких требований к скорости и качеству.</br>
+✅[Обзор](https://github.com/jdnei/yifen)</br>
 
 ---
 
-### 8. VPN-сервис FlyingBird
+### 08. Peiqian VPN
+
+Актуальный официальный сайт: [赔钱机场.com](https://to.iix.im/pq01)</br>
+✅ Периодические тарифы丨❌ Тарифы без срока действия丨❌ Residential IP</br>
+Преимущества: доступный сервис начального уровня. Подходит тем, кому не требуется премиальное качество соединения.</br>
+✅[Обзор](https://github.com/jdnei/peiqianjichang)</br>
+
+---
+
+### 09. Xiaofeiji VPN
+
+Актуальный официальный сайт: [xfj2.ww01.cc](https://xfj2.ww01.cc/#/register?code=L99sYi8J)</br>
+✅ Периодические тарифы丨✅ Тарифы без срока действия丨❌ Residential IP丨✅ Узлы в Китае 🇨🇳</br>
+Преимущества: помимо зарубежных узлов сервис также предлагает узлы в Китае. Это удобно для пользователей, живущих за границей и часто использующих китайские приложения и сервисы.</br>
+✅[Обзор](https://github.com/jdnei/xiaofeiji)</br>
+
+---
+
+### 10. FlyingBird
+
 Актуальный официальный сайт: [fbweb03.flyingbird.la](https://fbweb03.flyingbird.la/auth/register?code=T7N16oUx)</br>
-✅ Периодические тарифы丨❌ Бессрочные тарифы丨❌ Домашние IP-адреса丨✅ Собственный клиент</br>
-Преимущества: сейчас сервис работает только через собственный клиент. Рекомендуется пользователям, которые не умеют настраивать прокси-программы.</br>
-✅ [Обзор](https://github.com/jdnei/flyingbird)</br>
+✅ Периодические тарифы丨❌ Тарифы без срока действия丨❌ Residential IP丨✅ Собственный клиент</br>
+Преимущества: в основном предназначен для использования через фирменный клиент. Рекомендуется пользователям, которые не умеют настраивать сторонние прокси-приложения.</br>
+✅[Обзор](https://github.com/jdnei/flyingbird)</br>
 
 ---
 
-### 9. VPN-сервис WgetCloud
+### 11. Naiyun
+
+`30 июня связь с сервисом пропала. 1 июля был запущен новый официальный сайт, управление перешло к зарубежной команде. 5 июля годовая подписка автора обзора была восстановлена.`</br>
+Инструкция по восстановлению аккаунта и тарифа: [recovery](https://github.com/jdnei/naiyun#recovery)</br>
+Актуальный официальный сайт: [naiun.io](https://to.iix.im/ny10)</br>
+✅ Периодические тарифы丨✅ Тарифы без срока действия丨❌ Residential IP</br>
+Преимущества: более 58 узлов, включая множество редких регионов, например Нигерию и Турцию. Такие локации используются нечасто, но могут быть очень полезны для определённых задач. Ранее сервис также предоставлял ~~5 residential-узлов~~!</br>
+✅[Обзор](https://github.com/jdnei/naiyun)</br>
+
+---
+
+### 12. Mitce
+
+Актуальный официальный сайт: [mitce.io](https://to.iix.im/mt01)</br>
+✅ Периодические тарифы丨❌ Тарифы без срока действия丨✅ Residential IP丨✅ Безлимитный трафик</br>
+Преимущества: помимо стандартных популярных локаций предоставляет residential-узлы в Гонконге (HK). Также доступны тарифы с безлимитным трафиком для пользователей с большим объёмом потребления.</br>
+✅[Обзор](https://github.com/jdnei/mitce)</br>
+
+---
+
+### 13. WgetCloud
+
 Актуальный официальный сайт: [wgetcloud.ltd](https://invite.wgetcloud.ltd/auth/register?code=EAv6F4)</br>
-✅ Периодические тарифы丨❌ Бессрочные тарифы丨❌ Домашние IP-адреса丨✅ Выделенные линии</br>
-Преимущества: сервис предоставляет выделенные линии, но стоит относительно дорого.</br>
-✅ [Обзор](https://github.com/jdnei/WgetCloud)
+✅ Периодические тарифы丨❌ Тарифы без срока действия丨❌ Residential IP丨✅ Выделенные линии</br>
+Преимущества: предоставляет выделенные линии. Главный недостаток — высокая цена.</br>
+✅[Обзор](https://github.com/jdnei/WgetCloud)
 
 ---
 
-### 10. VPN-сервис FlowerCloud
+### 14. TAG — сервис с выделенными линиями
+
+Актуальный официальный сайт: [tagss.pro](https://to.iix.im/tag03)</br>
+✅ Периодические тарифы丨❌ Тарифы без срока действия丨❌ Residential IP丨✅ Выделенные линии</br>
+Преимущества: выделенные линии и множество редких региональных узлов. Хороший альтернативный вариант для тех, кто не хочет использовать FlowerCloud или Nexitally.</br>
+✅[Обзор](https://github.com/jdnei/TAG)
+
+---
+
+### 15. Ytoo — сервис с выделенными линиями
+
+Актуальный официальный сайт: [y-too.net](https://to.iix.im/yt01)</br>
+✅ Периодические тарифы丨❌ Тарифы без срока действия丨❌ Residential IP丨✅ Выделенные линии</br>
+Преимущества: предоставляет выделенные линии и ряд редких региональных узлов. Ещё один хороший альтернативный вариант для пользователей, которым не подходят FlowerCloud или Nexitally.</br>
+✅[Обзор](https://github.com/jdnei/ytoo)
+
+---
+
+### 16. FlowerCloud
+
 Актуальный официальный сайт: [flowercloud.net](https://api-flowercloud.com/aff.php?aff=20149)</br>
-✅ Периодические тарифы丨❌ Бессрочные тарифы丨❌ Домашние IP-адреса丨✅ Выделенные линии</br>
-Преимущества: давно работающий сервис с выделенными линиями. Как и Nexitally, обладает сильной технической командой и вряд ли внезапно исчезнет. Хороший выбор при достаточном бюджете.</br>
-✅ [Обзор](https://github.com/jdnei/FlowerCloud)</br>
+✅ Периодические тарифы丨❌ Тарифы без срока действия丨❌ Residential IP丨✅ Выделенные линии</br>
+Преимущества: давно работающий сервис с выделенными линиями. Как и Nexitally, обладает сильной технической базой и хорошей репутацией. Рекомендуется пользователям, для которых качество важнее цены.</br>
+✅[Обзор](https://github.com/jdnei/FlowerCloud)</br>
 
 ---
 
-### 11. VPN-сервис Nexitally
+### 17. Nexitally
+
 Актуальный официальный сайт: [nxonearth.com](https://nxonearth.com/signupbyemail.aspx?MemberCode=71c53b664dfa4413b7b34ffd5cd11f5820230223165339)</br>
-✅ Периодические тарифы丨❌ Бессрочные тарифы丨❌ Домашние IP-адреса丨✅ Выделенные линии</br>
-Преимущества: давно работающий сервис с выделенными линиями. Как и FlowerCloud, обладает сильной технической командой, заслуживает доверия и подходит пользователям с достаточным бюджетом.</br>
-✅ [Обзор](https://github.com/jdnei/naixi)</br>
+✅ Периодические тарифы丨❌ Тарифы без срока действия丨❌ Residential IP丨✅ Выделенные линии</br>
+Преимущества: давно работающий сервис с выделенными линиями. Как и FlowerCloud, обладает сильной технической базой и заслуживает доверия. Рекомендуется тем, кто ценит качество и не слишком чувствителен к цене.</br>
+✅[Обзор](https://github.com/jdnei/naixi)</br>
