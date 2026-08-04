@@ -1,4 +1,4 @@
-﻿name: Daily Date Update & Sync to Gitee and GitLab
+name: Daily Date Update & Sync to Gitee and GitLab
 
 on:
   schedule:
@@ -16,17 +16,49 @@ jobs:
 
       - name: Update Date and Fix Image Links
         run: |
-          YEAR_CHAR=$'\u5e74'
-          MONTH_CHAR=$'\u6708'
-          DAY_CHAR=$'\u65e5'
-          UPDATE_TEXT=$'\u66f4\u65b0'
-
           Y=$(TZ='Asia/Shanghai' date +'%Y')
           M=$(TZ='Asia/Shanghai' date +'%-m')
           D=$(TZ='Asia/Shanghai' date +'%-d')
-          CURRENT_DATE="${Y}${YEAR_CHAR}${M}${MONTH_CHAR}${D}${DAY_CHAR}"
+          CURRENT_DATE="${Y}年${M}月${D}日"
 
-          sed -i "s/([0-9]\{4\}${YEAR_CHAR}[0-9]\{1,2\}${MONTH_CHAR}[0-9]\{1,2\}${DAY_CHAR}${UPDATE_TEXT})/(${CURRENT_DATE}${UPDATE_TEXT})/g" README.md
+          case "$M" in
+            1) RU_MONTH="января" ;;
+            2) RU_MONTH="февраля" ;;
+            3) RU_MONTH="марта" ;;
+            4) RU_MONTH="апреля" ;;
+            5) RU_MONTH="мая" ;;
+            6) RU_MONTH="июня" ;;
+            7) RU_MONTH="июля" ;;
+            8) RU_MONTH="августа" ;;
+            9) RU_MONTH="сентября" ;;
+            10) RU_MONTH="октября" ;;
+            11) RU_MONTH="ноября" ;;
+            12) RU_MONTH="декабря" ;;
+          esac
+          RU_DATE="Обновлено ${D} ${RU_MONTH} ${Y} года"
+
+          case "$M" in
+            1) FA_MONTH="ژانویه" ;;
+            2) FA_MONTH="فوریه" ;;
+            3) FA_MONTH="مارس" ;;
+            4) FA_MONTH="آوریل" ;;
+            5) FA_MONTH="مه" ;;
+            6) FA_MONTH="ژوئن" ;;
+            7) FA_MONTH="ژوئیه" ;;
+            8) FA_MONTH="اوت" ;;
+            9) FA_MONTH="سپتامبر" ;;
+            10) FA_MONTH="اکتبر" ;;
+            11) FA_MONTH="نوامبر" ;;
+            12) FA_MONTH="دسامبر" ;;
+          esac
+          FA_DATE="به‌روزرسانی ${D} ${FA_MONTH} ${Y}"
+
+          for file in *.md; do
+            [ -f "$file" ] || continue
+            sed -i -E "s/\([0-9]{4}年[0-9]{1,2}月[0-9]{1,2}日更新\)/(${CURRENT_DATE}更新)/g" "$file"
+            sed -i -E "s/\(Обновлено [0-9]{1,2} [^)]+ [0-9]{4} года\)/(${RU_DATE})/g" "$file"
+            sed -i -E "s/\(به‌روزرسانی [0-9]{1,2} [^)]+ [0-9]{4}\)/(${FA_DATE})/g" "$file"
+          done
 
           sed -i 's/\(\.png\|\.jpg\|\.jpeg\|\.gif\))/\1?raw=true)/g' README.md
           sed -i 's/?raw=true?raw=true/?raw=true/g' README.md
@@ -35,7 +67,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add README.md
+          git add -- '*.md'
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Update date" && git push)
 
       - name: Force Push to Gitee
