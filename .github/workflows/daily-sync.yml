@@ -22,40 +22,28 @@ jobs:
           CURRENT_DATE="${Y}年${M}月${D}日"
 
           case "$M" in
-            1) RU_MONTH="января" ;;
-            2) RU_MONTH="февраля" ;;
-            3) RU_MONTH="марта" ;;
-            4) RU_MONTH="апреля" ;;
-            5) RU_MONTH="мая" ;;
-            6) RU_MONTH="июня" ;;
-            7) RU_MONTH="июля" ;;
-            8) RU_MONTH="августа" ;;
-            9) RU_MONTH="сентября" ;;
-            10) RU_MONTH="октября" ;;
-            11) RU_MONTH="ноября" ;;
-            12) RU_MONTH="декабря" ;;
+            1) EN_MONTH="January"; RU_MONTH="января"; FA_MONTH="ژانویه" ;;
+            2) EN_MONTH="February"; RU_MONTH="февраля"; FA_MONTH="فوریه" ;;
+            3) EN_MONTH="March"; RU_MONTH="марта"; FA_MONTH="مارس" ;;
+            4) EN_MONTH="April"; RU_MONTH="апреля"; FA_MONTH="آوریل" ;;
+            5) EN_MONTH="May"; RU_MONTH="мая"; FA_MONTH="مه" ;;
+            6) EN_MONTH="June"; RU_MONTH="июня"; FA_MONTH="ژوئن" ;;
+            7) EN_MONTH="July"; RU_MONTH="июля"; FA_MONTH="ژوئیه" ;;
+            8) EN_MONTH="August"; RU_MONTH="августа"; FA_MONTH="اوت" ;;
+            9) EN_MONTH="September"; RU_MONTH="сентября"; FA_MONTH="سپتامبر" ;;
+            10) EN_MONTH="October"; RU_MONTH="октября"; FA_MONTH="اکتبر" ;;
+            11) EN_MONTH="November"; RU_MONTH="ноября"; FA_MONTH="نوامبر" ;;
+            12) EN_MONTH="December"; RU_MONTH="декабря"; FA_MONTH="دسامبر" ;;
           esac
-          RU_DATE="Обновлено ${D} ${RU_MONTH} ${Y} года"
 
-          case "$M" in
-            1) FA_MONTH="ژانویه" ;;
-            2) FA_MONTH="فوریه" ;;
-            3) FA_MONTH="مارس" ;;
-            4) FA_MONTH="آوریل" ;;
-            5) FA_MONTH="مه" ;;
-            6) FA_MONTH="ژوئن" ;;
-            7) FA_MONTH="ژوئیه" ;;
-            8) FA_MONTH="اوت" ;;
-            9) FA_MONTH="سپتامبر" ;;
-            10) FA_MONTH="اکتبر" ;;
-            11) FA_MONTH="نوامبر" ;;
-            12) FA_MONTH="دسامبر" ;;
-          esac
+          EN_DATE="Updated ${EN_MONTH} ${D}, ${Y}"
+          RU_DATE="Обновлено ${D} ${RU_MONTH} ${Y} года"
           FA_DATE="به‌روزرسانی ${D} ${FA_MONTH} ${Y}"
 
           for file in *.md; do
             [ -f "$file" ] || continue
             sed -i -E "s/\([0-9]{4}年[0-9]{1,2}月[0-9]{1,2}日更新\)/(${CURRENT_DATE}更新)/g" "$file"
+            sed -i -E "s/\(Updated [A-Za-z]+ [0-9]{1,2}, [0-9]{4}\)/(${EN_DATE})/g" "$file"
             sed -i -E "s/\(Обновлено [0-9]{1,2} [^)]+ [0-9]{4} года\)/(${RU_DATE})/g" "$file"
             sed -i -E "s/\(به‌روزرسانی [0-9]{1,2} [^)]+ [0-9]{4}\)/(${FA_DATE})/g" "$file"
           done
