@@ -108,7 +108,16 @@
 
 ---
 
-### 07.一分机场
+### 07. NiceCloud机场
+官网最新地址：[nicecloud.co](https://nicecloud.co/register?aff=W2RtB8Xq)</br>
+✅周期性套餐丨✅不限时套餐丨❌家宽</br>
+优势：耐思云机场采用IEPL专线及优质中转节点，负载表现稳定的老牌VPN机场</br>
+✅[测评](https://github.com/jdnei/xiaofeiji)</br>
+
+
+---
+
+### 08.一分机场
 官网最新地址：[一分机场.com](https://to.iix.im/yf01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽</br>
 优势：入门性价比，便宜，对质量要求不高的可以选</br>
@@ -116,19 +125,11 @@
 
 ---
 
-### 08. 赔钱机场
+### 09. 赔钱机场
 官网最新地址：[赔钱机场.com](https://to.iix.im/pq01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽</br>
 优势：入门性价比，便宜，对质量要求不高的可以选</br>
 ✅[测评](https://github.com/jdnei/peiqianjichang)</br>
-
----
-
-### 09. 小飞机VPN机场
-官网最新地址：[xfj2.ww01.cc](https://xfj2.ww01.cc/#/register?code=L99sYi8J)</br>
-✅周期性套餐丨✅不限时套餐丨❌家宽丨✅中国🇨🇳节点</br>
-优势：提供海外节点的同时，还有中国节点，适合经常在海外用中国APP的盆友</br>
-✅[测评](https://github.com/jdnei/xiaofeiji)</br>
 
 ---
 
