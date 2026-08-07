@@ -2,7 +2,7 @@ name: Daily Date Update & Sync to Gitee and GitLab
 
 on:
   schedule:
-    - cron: '26 19 * * *'
+    - cron: '47 16 * * *'
   workflow_dispatch:
 
 jobs:
@@ -19,43 +19,38 @@ jobs:
           Y=$(TZ='Asia/Shanghai' date +'%Y')
           M=$(TZ='Asia/Shanghai' date +'%-m')
           D=$(TZ='Asia/Shanghai' date +'%-d')
-          CURRENT_DATE="${Y}年${M}月${D}日"
 
-          case "$M" in
-            1) EN_MONTH="January"; RU_MONTH="января"; FA_MONTH="ژانویه" ;;
-            2) EN_MONTH="February"; RU_MONTH="февраля"; FA_MONTH="فوریه" ;;
-            3) EN_MONTH="March"; RU_MONTH="марта"; FA_MONTH="مارس" ;;
-            4) EN_MONTH="April"; RU_MONTH="апреля"; FA_MONTH="آوریل" ;;
-            5) EN_MONTH="May"; RU_MONTH="мая"; FA_MONTH="مه" ;;
-            6) EN_MONTH="June"; RU_MONTH="июня"; FA_MONTH="ژوئن" ;;
-            7) EN_MONTH="July"; RU_MONTH="июля"; FA_MONTH="ژوئیه" ;;
-            8) EN_MONTH="August"; RU_MONTH="августа"; FA_MONTH="اوت" ;;
-            9) EN_MONTH="September"; RU_MONTH="сентября"; FA_MONTH="سپتامبر" ;;
-            10) EN_MONTH="October"; RU_MONTH="октября"; FA_MONTH="اکتبر" ;;
-            11) EN_MONTH="November"; RU_MONTH="ноября"; FA_MONTH="نوامبر" ;;
-            12) EN_MONTH="December"; RU_MONTH="декабря"; FA_MONTH="دسامبر" ;;
-          esac
+          EN_MONTHS=(January February March April May June July August September October November December)
+          RU_MONTHS=(января февраля марта апреля мая июня июля августа сентября октября ноября декабря)
+          FA_MONTHS=(ژانویه فوریه مارس آوریل مه ژوئن ژوئیه اوت سپتامبر اکتبر نوامبر دسامبر)
+          IDX=$((M - 1))
 
-          EN_DATE="Updated ${EN_MONTH} ${D}, ${Y}"
-          RU_DATE="Обновлено ${D} ${RU_MONTH} ${Y} года"
-          FA_DATE="به‌روزرسانی ${D} ${FA_MONTH} ${Y}"
+          update_file() {
+            file="$1"
+            date_text="$2"
 
-          for file in *.md; do
-            [ -f "$file" ] || continue
-            sed -i -E "s/\([0-9]{4}年[0-9]{1,2}月[0-9]{1,2}日更新\)/(${CURRENT_DATE}更新)/g" "$file"
-            sed -i -E "s/\(Updated [A-Za-z]+ [0-9]{1,2}, [0-9]{4}\)/(${EN_DATE})/g" "$file"
-            sed -i -E "s/\(Обновлено [0-9]{1,2} [^)]+ [0-9]{4} года\)/(${RU_DATE})/g" "$file"
-            sed -i -E "s/\(به‌روزرسانی [0-9]{1,2} [^)]+ [0-9]{4}\)/(${FA_DATE})/g" "$file"
-          done
+            if [ -f "$file" ]; then
+              echo "Updating $file => $date_text"
 
-          sed -i 's/\(\.png\|\.jpg\|\.jpeg\|\.gif\))/\1?raw=true)/g' README.md
-          sed -i 's/?raw=true?raw=true/?raw=true/g' README.md
+              DATE_TEXT="$date_text" perl -0pi -e 's/^(\s*#+\s+.*?)(\([^\)\n]*(?:[12][0-9]{3}|更新|Updated|updated|обнов|Обнов|به.?روز|آپدیت)[^\)\n]*\))/$1."(".$ENV{DATE_TEXT}.")"/em' "$file"
+
+              sed -i 's/\(\.png\|\.jpg\|\.jpeg\|\.gif\))/\1?raw=true)/g' "$file"
+              sed -i 's/?raw=true?raw=true/?raw=true/g' "$file"
+            else
+              echo "$file not found, skip."
+            fi
+          }
+
+          update_file "README.md" "${Y}年${M}月${D}日更新"
+          update_file "README_EN.md" "Updated ${EN_MONTHS[$IDX]} ${D}, ${Y}"
+          update_file "README_RU.md" "обновлено ${D} ${RU_MONTHS[$IDX]} ${Y}"
+          update_file "README_FA.md" "به‌روزرسانی ${D} ${FA_MONTHS[$IDX]} ${Y}"
 
       - name: Commit and Push to GitHub
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add -- '*.md'
+          git add README.md README_EN.md README_RU.md README_FA.md
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Update date" && git push)
 
       - name: Force Push to Gitee
