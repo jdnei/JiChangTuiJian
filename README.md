@@ -112,7 +112,7 @@
 官网最新地址：[nicecloud.co](https://nicecloud.co/register?aff=W2RtB8Xq)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：耐思云机场采用IEPL专线及优质中转节点，负载表现稳定的老牌VPN机场</br>
-✅[测评](https://github.com/jdnei/xiaofeiji)</br>
+✅[测评](https://github.com/jdnei/nicecloud)</br>
 
 
 ---
