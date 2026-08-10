@@ -162,7 +162,7 @@
 ---
 
 ### 13. WgetCloud机场
-官网最新地址：[wgetcloud.ltd](https://to.iix.im/wc01)（ 中国大陆无法访问 ）</br>
+官网最新地址：[wgetcloud.ltd](https://to.iix.im/wc02)（ 中国大陆无法访问 ）</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：有专线，缺点贵</br>
 ✅[测评](https://github.com/jdnei/WgetCloud)
