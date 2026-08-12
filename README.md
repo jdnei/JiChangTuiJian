@@ -170,7 +170,7 @@
 ---
 
 ### 14. byg白月光专线机场
-官网最新地址：[bygcloud.com](https://to.iix.im/byg02)</br>
+官网最新地址：[bygcloud.com](https://to.iix.im/byg02)（关闭代理访问）</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：用的人少，比花云便宜，老牌机场，稳定</br>
 ✅[测评](https://github.com/jdnei/WgetCloud)
