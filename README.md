@@ -7,9 +7,15 @@
 2026最新好用的机场推荐与节点分享给大家，最新机场推荐与机场评测，包含了机场最新官网地址、优惠价格套餐、机场简介等。
 
 ## 选购机场必读
+<details>
+<summary><strong>点击展开阅读</strong></summary>
+
 - 相比较来说直连机场更加推荐购买中转机场。中转机场带宽大，专线主要是不过墙延迟低，专线机场在日常使用过程中会更丝滑更舒服。机场比的是钞能力啦，速度需要看机场的总的带宽大小。稳定呢要看机场大佬的资源质量，主要是看机场主的上游的线路质量，解锁看的是机场主的落地/解锁商是否优秀。机场带宽大和稳定性最重要。
 - 对于中转机场而言，显然协议不是最重要的，中转机子的稳定性和带宽大小才是。
 - 备用备用特别重要，如果经常需要科学上网，那么就不能只有一个机场，必须多买几个备用机场。
+  
+</details>
+
 ## 客户端推荐
 <details>
 <summary><strong>点击展开客户端列表</strong></summary> 
@@ -59,11 +65,90 @@
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 
 ## 2026年10大稳定好用的机场推荐节点分享
-> [!NOTE]
-> 任何机场都有随时跑路的可能，怕跑路用月付，图便宜用年付，但风险自担。
+
+> 💡 **阅读提示：** 任何机场都有随时跑路的可能，怕跑路用月付，图便宜用年付，但风险自担。
+
+
+> [!NOTE] 
+> **点击**下方分类标题可快速跳转至对应推荐。本文推荐排名不分先后，星级评分基于个人使用体验，仅供参考。
+
+| [普通系列](#standard) | [性价比系列](#value) | [专线系列](#premium) | [特色系列](#specialty) |
+| --- | --- | --- | --- |
+| 不想折腾、老牌机场、价格和速度中规中矩、长期用 | 高性价比，价格便宜、流量充足、常做备用 | 专线传输，晚高峰更稳定、流量有限、没有其他特殊需求、长期用 | 家宽、Emby、不限时、新疆用户等特殊需求 |
+| 稳定 ★★★★☆<br>速度 ★★★☆☆<br>延迟 ★★★☆☆<br>性价比 ★★☆☆☆<br> | 稳定 ★★☆☆☆<br>速度 ★★☆☆☆<br>延迟 ★★☆☆☆<br>性价比 ★★★★★<br> | 稳定 ★★★★☆<br>速度 ★★★★★<br>延迟 ★★★★☆<br>性价比 ★☆☆☆☆<br> | 稳定 ★★☆☆☆<br>速度 ★★☆☆☆<br>延迟 ★★★☆☆<br>性价比 ★★☆☆☆<br> | 稳定 ★★★★★<br>速度 ★★★★☆<br>延迟 ★★★☆☆<br>性价比 ★★★☆☆<br> |
 
 
 
+<a id="standard"></a>
+## 📦 普通系列
+### 01. NiceCloud机场
+官网最新地址：[nicecloud.co](https://to.iix.im/nc02)</br>
+✅周期性套餐丨✅不限时套餐丨❌家宽</br>
+优势：耐思云机场采用IEPL专线及优质中转节点，负载表现稳定的老牌VPN机场</br>
+✅[测评](https://github.com/jdnei/nicecloud)</br>
+
+---
+
+### 02. 狗狗加速机场
+官网最新地址：[狗狗加速.com](https://to.iix.im/gg01) </br>
+✅周期性套餐丨❌不限时套餐丨❌家宽</br>
+优势：速度中规中矩，图个省心，老牌子机场算便宜的</br>
+✅[测评](https://github.com/jdnei/gougou)</br>
+
+---
+
+### 03. 奈云机场
+`6.30失联。7.1新官网上线，海外团队接管。7.5博主年付套餐已恢复。`</br>
+账号套餐恢复教程：[recovery](https://github.com/jdnei/naiyun#recovery)</br>
+最新官网地址：[naiun.io](https://to.iix.im/ny10)</br>
+✅周期性套餐丨✅不限时套餐丨❌家宽</br>
+优势：提供58+节点，带很多冷门地区，尼日利亚，土耳其等等不太常用且实用的节点。还带~~5条家宽~~！</br>
+✅[测评](https://github.com/jdnei/naiyun)</br>
+
+
+---
+
+### 04. XSUS十八线小机场
+官网最新地址：[xsus.cloud](https://to.iix.im/xsus02)</br>
+✅周期性套餐丨✅不限时套餐丨❌家宽丨✅专线</br>
+优势：老牌机场，稳定性很好，什么套餐都有，推荐不想折腾的用户</br>
+✅[测评]()
+
+---
+
+### 05. CTC机场
+官网最新地址：[www.ctc.run](https://to.iix.im/ctc03)</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
+优势：老牌机场了，有专线，缺点贵</br>
+✅[测评](https://github.com/jdnei/ctc)
+
+---
+
+### 06. 速鹰666机场
+官网最新地址：[suying91.xyz](https://to.iix.im/sy03)</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽</br>
+优势：中规中矩的老牌机场，应该都听说过</br>
+✅[测评](https://github.com/jdnei/suying666)
+
+---
+
+### 07. V2PAW机场机场
+官网最新地址：[dash.v2paw.com](https://to.iix.im/v201)</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽</br>
+优势：老牌机场，翻翻强FFQ论坛极力推荐</br>
+✅[测评](https://github.com/jdnei/v2paw)
+
+---
+
+### 08. SSRdog机场
+官网最新地址：[dog.ssrdog.com](https://to.iix.im/dog01)</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
+优势：老牌机场了，有专线，缺点贵</br>
+✅[测评](https://github.com/jdnei/ssrdog)
+
+
+<a id="value"></a>
+## 💰 性价比系列
 ### 01. 魔戒机场
 最新官网地址：[mojie.co](https://to.iix.im/mj10)</br>
 ❌周期性套餐丨✅不限时套餐丨❌家宽</br>
@@ -80,6 +165,133 @@
 
 ---
 
+### 03. 良心云机场
+最新官网地址：[良心云.com](https://to.iix.im/lx01)</br>
+✅周期性套餐丨✅不限时套餐丨❌家宽</br>
+优势：最近GFW封的厉害，他家很强，提供0.01倍长期下载专属节点</br>
+✅[测评](https://github.com/jdnei/liangxin)</br>
+
+---
+### 04. 吹雪云机场
+官网最新地址：[吹雪云.com](https://xn--9kqs1lo79d.com/#/register?code=RRAhwArP)</br>
+✅周期性套餐丨✅不限时套餐丨❌家宽</br>
+优势：良心云的竞争对手，主打便宜大碗，月付不怕跑路</br>
+✅[测评](https://github.com/jdnei/chuixuecloud)</br>
+
+---
+
+### 05. Mitce机场
+最新官网地址：[mitce.io](https://to.iix.im/mt01)</br>
+✅周期性套餐丨❌不限时套餐丨✅家宽丨✅无限流量</br>
+优势：包括常用的节点，还另外提供香港HK的家宽节点，带无限流量的套餐，有需求的可以订阅。</br>
+✅[测评](https://github.com/jdnei/mitce)</br>
+
+---
+
+### 06. SKYLUMO机场
+官网最新地址：[skylumo.cc](https://to.iix.im/sky02)</br>
+✅周期性套餐丨✅不限时套餐丨❌家宽</br>
+优势：别选月付，直接选49元一年</br>
+✅[测评](https://github.com/jdnei/SKYLUMO)
+
+---
+
+### 07.一分机场
+官网最新地址：[一分机场.com](https://to.iix.im/yf01)</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽</br>
+优势：入门性价比，便宜，对质量要求不高的可以选</br>
+✅[测评](https://github.com/jdnei/yifen)</br>
+
+---
+
+### 08. 赔钱机场
+官网最新地址：[赔钱机场.com](https://to.iix.im/pq01)</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽</br>
+优势：入门性价比，便宜，对质量要求不高的可以选</br>
+✅[测评](https://github.com/jdnei/peiqianjichang)</br>
+
+
+<a id="premium"></a>
+## 🚀 专线系列
+### 01. WgetCloud专线机场
+官网最新地址：[wgetcloud.ltd](https://to.iix.im/wc02)（ 中国大陆无法访问 ）</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
+优势：老牌有专线的机场，缺点贵，优点稳定</br>
+✅[测评](https://github.com/jdnei/WgetCloud)
+
+---
+
+### 02. byg白月光专线机场
+官网最新地址：[bygcloud.com](https://to.iix.im/byg02)</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
+优势：用的人少，比花云便宜，老牌机场，稳定</br>
+✅[测评](https://github.com/jdnei/WgetCloud)
+
+---
+
+### 03. TAG专线机场
+官网最新地址：[tagss.pro](https://to.iix.im/tag03)</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
+优势：有专线，有冷门节点，不喜欢花云奶昔的plan B</br>
+✅[测评](https://github.com/jdnei/TAG)
+
+---
+
+### 04. Ytoo专线机场
+官网最新地址：[y-too.net](https://to.iix.im/yt01)</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
+优势：有专线，有冷门节点，不喜欢花云奶昔的plan B</br>
+✅[测评](https://github.com/jdnei/ytoo)
+
+
+---
+
+
+### 05. 绿叶云专线机场
+官网最新地址：[linkcube.org](https://to.iix.im/ly02)</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
+优势：用稍微便宜的价格，体验专线，三个套餐清晰无套路</br>
+✅[测评](https://github.com/jdnei/linkcube)
+
+---
+
+### 06. 花云机场
+官网最新地址：[flowercloud.net](https://api-flowercloud.com/aff.php?aff=20149)</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
+优势：老牌专线，和奶昔一样，技术强，不跑路,不差钱直接上</br>
+✅[测评](https://github.com/jdnei/FlowerCloud)</br>
+
+---
+
+### 07. 奶昔机场
+官网最新地址：[nxonearth.com](https://nxonearth.com/signupbyemail.aspx?MemberCode=71c53b664dfa4413b7b34ffd5cd11f5820230223165339)</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
+优势：老牌专线，和花云一样，技术强，信得过，不差钱直接上</br>
+✅[测评](https://github.com/jdnei/naixi)</br>
+
+
+
+<a id="specialty"></a>
+## ✨ 特色系列
+
+
+
+### 01. Crush云机场
+官网最新地址：[crush91.cc](https://to.iix.im/cr01)</br>
+✅周期性套餐丨❌不限时套餐丨✅新疆可用丨✅专线丨✅Emby服务丨✅不限设备</br>
+优势：⚠️：只有带IPv6的用户才可以用。对速度要求不高，功能要求多的用户可购买</br>
+✅[测评](https://github.com/jdnei/crush)
+
+---
+
+### 02. KittyNetwork机场
+官网最新地址：[kitty.fo](https://to.iix.im/kn01)（中国大陆无法访问）</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽丨✅新疆可用</br>
+优势：提供中国新疆地区可用的节点</br>
+✅[测评](https://github.com/jdnei/kitty)
+
+---
+
 ### 03. m78星云机场
 官网最新地址：[www.m78.pro](https://to.iix.im/xy03)（ 中国大陆无法访问 ）</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽丨✅Emby服务</br>
@@ -88,132 +300,49 @@
 
 ---
 
-### 04. 良心云机场
-最新官网地址：[良心云.com](https://to.iix.im/lx01)</br>
-✅周期性套餐丨✅不限时套餐丨❌家宽</br>
-优势：最近GFW封的厉害，他家很强，提供0.01倍长期下载专属节点</br>
-✅[测评](https://github.com/jdnei/liangxin)</br>
-
----
-### 05. 吹雪云机场
-官网最新地址：[吹雪云.com](https://xn--9kqs1lo79d.com/#/register?code=RRAhwArP)</br>
-✅周期性套餐丨✅不限时套餐丨❌家宽</br>
-优势：良心云的竞争对手，主打便宜大碗，月付不怕跑路</br>
-✅[测评](https://github.com/jdnei/chuixuecloud)</br>
-
----
-### 06. 狗狗加速机场
-官网最新地址：[狗狗加速.com](https://to.iix.im/gg01) </br>
-✅周期性套餐丨❌不限时套餐丨❌家宽</br>
-优势：速度中规中矩，图个省心，老牌子机场算便宜的</br>
-✅[测评](https://github.com/jdnei/gougou)</br>
+### 04. YkkCloud机场
+官网最新地址：[panel.ykkk.best](https://to.iix.im/ykk01)</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽丨✅Emby服务</br>
+优势：提供正常节点外，可以赠送Emby观影权益，爱看电影的备选</br>
+✅[测评](https://github.com/jdnei/ykk)</br>
 
 ---
 
-### 07. NiceCloud机场
-官网最新地址：[nicecloud.co](https://to.iix.im/nc02)</br>
-✅周期性套餐丨✅不限时套餐丨❌家宽</br>
-优势：耐思云机场采用IEPL专线及优质中转节点，负载表现稳定的老牌VPN机场</br>
-✅[测评](https://github.com/jdnei/nicecloud)</br>
+### 05. NIVA Network机场
+官网最新地址：[app.mizuku.net](https://to.iix.im/niva01)</br>
+✅周期性套餐丨✅不限时套餐丨✅家宽</br>
+优势：用的不多，又有部分家宽需求，对速度要求不敏感的可备选</br>
+✅[测评](https://github.com/jdnei/niva)
 
 
 ---
 
-### 08.一分机场
-官网最新地址：[一分机场.com](https://to.iix.im/yf01)</br>
-✅周期性套餐丨❌不限时套餐丨❌家宽</br>
-优势：入门性价比，便宜，对质量要求不高的可以选</br>
-✅[测评](https://github.com/jdnei/yifen)</br>
+### 06. NianYun念云机场
+官网最新地址：[xnyun.wiki](https://to.iix.im/xny01)（中国大陆无法访问）</br>
+✅周期性套餐丨✅不限时套餐丨✅家宽</br>
+优势：对线路总体要求不高，但平时有各地家宽需求的用户，可做备选</br>
+✅[测评](https://github.com/jdnei/nianyun)
 
 ---
 
-### 09. 赔钱机场
-官网最新地址：[赔钱机场.com](https://to.iix.im/pq01)</br>
-✅周期性套餐丨❌不限时套餐丨❌家宽</br>
-优势：入门性价比，便宜，对质量要求不高的可以选</br>
-✅[测评](https://github.com/jdnei/peiqianjichang)</br>
+### 07. SpeedCat闪电猫机场
+官网最新地址：[speedcat.la](https://to.iix.im/sc01)</br>
+✅周期性套餐丨❌不限时套餐丨✅家宽丨✅不限设备</br>
+优势：提供基础节点的同时，不限制连接设备数量，适合设备多，用量不大的</br>
+✅[测评](https://github.com/jdnei/speedcat)
 
 ---
 
-### 10. 飞鸟云机场
+### 08. 飞鸟云机场
 官网最新地址：[fbweb03.flyingbird.la](https://fbweb03.flyingbird.la/auth/register?code=T7N16oUx)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅客户端</br>
 优势：只能客户端了，不会用FQ软件的推荐</br>
 ✅[测评](https://github.com/jdnei/flyingbird)</br>
 
 ---
+### 09. 星岛梦机场
+官网最新地址：[awasdfeqr.xdmttt4.click](https://to.iix.im/xmd03)</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽丨✅客户端</br>
+优势：只能客户端了，不会用FQ软件的推荐</br>
+✅[测评](https://github.com/jdnei/xingdaomeng)</br>
 
-### 11. 奈云机场
-`6.30失联。7.1新官网上线，海外团队接管。7.5博主年付套餐已恢复。`</br>
-账号套餐恢复教程：[recovery](https://github.com/jdnei/naiyun#recovery)</br>
-最新官网地址：[naiun.io](https://to.iix.im/ny10)</br>
-✅周期性套餐丨✅不限时套餐丨❌家宽</br>
-优势：提供58+节点，带很多冷门地区，尼日利亚，土耳其等等不太常用且实用的节点。还带~~5条家宽~~！</br>
-✅[测评](https://github.com/jdnei/naiyun)</br>
-
----
-
-### 12. Mitce机场
-最新官网地址：[mitce.io](https://to.iix.im/mt01)</br>
-✅周期性套餐丨❌不限时套餐丨✅家宽丨✅无限流量</br>
-优势：包括常用的节点，还另外提供香港HK的家宽节点，带无限流量的套餐，有需求的可以订阅。</br>
-✅[测评](https://github.com/jdnei/mitce)</br>
-
----
-
-### 13. WgetCloud专线机场
-官网最新地址：[wgetcloud.ltd](https://to.iix.im/wc02)（ 中国大陆无法访问 ）</br>
-✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
-优势：老牌有专线的机场，缺点贵，优点稳定</br>
-✅[测评](https://github.com/jdnei/WgetCloud)
-
----
-
-### 14. byg白月光专线机场
-官网最新地址：[bygcloud.com](https://to.iix.im/byg02)（关闭代理访问）</br>
-✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
-优势：用的人少，比花云便宜，老牌机场，稳定</br>
-✅[测评](https://github.com/jdnei/WgetCloud)
-
----
-
-### 15. TAG专线机场
-官网最新地址：[tagss.pro](https://to.iix.im/tag03)</br>
-✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
-优势：有专线，有冷门节点，不喜欢花云奶昔的plan B</br>
-✅[测评](https://github.com/jdnei/TAG)
-
----
-
-### 16. Ytoo专线机场
-官网最新地址：[y-too.net](https://to.iix.im/yt01)</br>
-✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
-优势：有专线，有冷门节点，不喜欢花云奶昔的plan B</br>
-✅[测评](https://github.com/jdnei/ytoo)
-
----
-
-### 17. 花云机场
-官网最新地址：[flowercloud.net](https://api-flowercloud.com/aff.php?aff=20149)</br>
-✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
-优势：老牌专线，和奶昔一样，技术强，不跑路,不差钱直接上</br>
-✅[测评](https://github.com/jdnei/FlowerCloud)</br>
-
----
-
-### 18. 奶昔机场
-官网最新地址：[nxonearth.com](https://nxonearth.com/signupbyemail.aspx?MemberCode=71c53b664dfa4413b7b34ffd5cd11f5820230223165339)</br>
-✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
-优势：老牌专线，和花云一样，技术强，信得过，不差钱直接上</br>
-✅[测评](https://github.com/jdnei/naixi)</br>
-
----
-
-
-### 19. 绿叶云专线机场
-官网最新地址：[linkcube.org](https://to.iix.im/ly02)</br>
-✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
-优势：用稍微便宜的价格，体验专线，三个套餐清晰无套路</br>
-✅[测评](https://github.com/jdnei/linkcube)
-
----
