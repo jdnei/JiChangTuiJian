@@ -1,228 +1,347 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# معرفی بهترین سرویس‌های VPN و اشتراک‌گذاری نودهای پیشنهادی در سال 2026 (به‌روزرسانی 13 اوت 2026)
+# معرفی جدیدترین سرویس‌های VPN و اشتراک‌گذاری نودهای پیشنهادی 2026(به‌روزرسانی‌شده در ۱۳ اوت ۲۰۲۶)
 
 ## مقدمه
+در این مطلب جدیدترین سرویس‌های VPN و نودهای پیشنهادی 2026 معرفی می‌شوند؛ شامل نشانی به‌روز وب‌سایت رسمی، پلن‌های تخفیفی، معرفی سرویس و بررسی‌ها.
 
-در این مطلب، جدیدترین و بهترین سرویس‌های VPN/پروکسی در سال 2026 و نودهای پیشنهادی را با شما به اشتراک می‌گذاریم. این فهرست شامل جدیدترین معرفی‌ها و بررسی‌های سرویس‌ها، آدرس رسمی و به‌روز وب‌سایت‌ها، قیمت‌ها و پلن‌های تخفیفی، معرفی مختصر سرویس‌ها و موارد دیگر است.
+## نکات ضروری پیش از انتخاب سرویس VPN
+<details>
+<summary><strong>برای باز کردن کلیک کنید</strong></summary>
 
-## نکات ضروری پیش از خرید سرویس VPN
-
-* در مقایسه با سرویس‌هایی که اتصال مستقیم ارائه می‌دهند، معمولاً خرید سرویس‌های دارای سرور واسط (Transit/Relay) بیشتر توصیه می‌شود. این سرویس‌ها معمولاً پهنای باند بالاتری دارند. مزیت اصلی خطوط اختصاصی نیز عبور پایدارتر از محدودیت‌ها و تأخیر کمتر است و در استفاده روزمره تجربه‌ای روان‌تر و راحت‌تر ارائه می‌کنند. در نهایت، کیفیت یک سرویس تا حد زیادی به میزان سرمایه‌گذاری آن بستگی دارد؛ سرعت به پهنای باند کلی سرویس، پایداری به کیفیت منابع و مسیرهای بالادستی ارائه‌دهنده، و قابلیت باز کردن محدودیت سرویس‌های مختلف به کیفیت سرورهای خروجی و ارائه‌دهندگان Unblock آن وابسته است. **پهنای باند بالا و پایداری، مهم‌ترین عوامل هستند.**
-* برای سرویس‌های دارای سرور واسط، نوع پروتکل لزوماً مهم‌ترین عامل نیست؛ **پایداری سرور واسط و میزان پهنای باند آن اهمیت بیشتری دارد.**
-* داشتن سرویس پشتیبان بسیار مهم است. اگر مرتباً نیاز به عبور از محدودیت‌های اینترنت دارید، بهتر است فقط به یک سرویس وابسته نباشید و چند سرویس جایگزین در اختیار داشته باشید.
+- در مقایسه با سرویس‌های اتصال مستقیم، معمولاً سرویس‌های رله‌ای پیشنهاد می‌شوند. سرویس‌های رله‌ای پهنای‌باند بیشتری دارند و خطوط اختصاصی عمدتاً با تأخیر کمتر، تجربه روان‌تری در استفاده روزمره ارائه می‌کنند. سرعت تا حد زیادی به پهنای‌باند کل سرویس بستگی دارد. پایداری نیز به کیفیت منابع ارائه‌دهنده، به‌ویژه مسیرهای بالادستی، وابسته است و بازکردن سرویس‌های محدودشده به کیفیت نودهای خروجی و تأمین‌کنندگان آن بستگی دارد. پهنای‌باند بالا و پایداری مهم‌ترین عوامل هستند.
+- برای سرویس‌های رله‌ای، پروتکل مهم‌ترین عامل نیست؛ پایداری و پهنای‌باند سرورهای رله اهمیت بیشتری دارد.
+- داشتن سرویس پشتیبان بسیار مهم است. اگر مرتب به دسترسی دورزننده نیاز دارید، نباید فقط به یک سرویس تکیه کنید و بهتر است چند سرویس پشتیبان داشته باشید.
+  
+</details>
 
 ## کلاینت‌های پیشنهادی
+<details>
+<summary><strong>برای باز کردن فهرست کلاینت‌ها کلیک کنید</strong></summary> 
 
-| کلاینت                                                                                                 | Windows | macOS | Linux | iOS | Android | روتر |
-| ------------------------------------------------------------------------------------------------------ | ------- | ----- | ----- | --- | ------- | ---- |
-| [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=jichangtuijian)          |         |       |       |     | ✔       |      |
-| [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangtuijian)          | ✔       | ✔     | ✔     |     |         |      |
-| [Clash Meta For Android](https://clashmetaforandroid.org/?utm_source=github&utm_medium=jichangtuijian) |         |       |       |     | ✔       |      |
-| [Clash Mi](https://clash-mi.org/?utm_source=github&utm_medium=jichangtuijian)                          | ✔       | ✔     | ✔     | ✔   | ✔       |      |
-| [Clash Nyanpasu](https://clashnyanpasu.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     | ✔     |     |         |      |
-| [Clash Party](https://clash-party.org/?utm_source=github&utm_medium=jichangtuijian)                    | ✔       | ✔     | ✔     |     |         |      |
-| [Clash Verge](https://clashverge.org/?utm_source=github&utm_medium=jichangtuijian)                     | ✔       | ✔     | ✔     |     |         |      |
-| [Clash Verge Rev](https://clashvergerev.org/?utm_source=github&utm_medium=jichangtuijian)              | ✔       | ✔     | ✔     |     |         |      |
-| [ClashN](https://getclashn.org/?utm_source=github&utm_medium=jichangtuijian)                           | ✔       |       |       |     |         |      |
-| [ClashX](https://clashx.org/?utm_source=github&utm_medium=jichangtuijian)                              |         | ✔     |       |     |         |      |
-| [ClashX Meta](https://clashxmeta.org/?utm_source=github&utm_medium=jichangtuijian)                     |         | ✔     |       |     |         |      |
-| [ClashX Pro](https://clashxpro.org/?utm_source=github&utm_medium=jichangtuijian)                       |         | ✔     |       |     |         |      |
-| [FlClash](https://getflclash.org/?utm_source=github&utm_medium=jichangtuijian)                         | ✔       | ✔     | ✔     |     | ✔       |      |
-| [Hiddify](https://gethiddify.org/?utm_source=github&utm_medium=jichangtuijian)                         | ✔       | ✔     | ✔     | ✔   | ✔       |      |
-| [Mihomo Party](https://mihomo-party.org/?utm_source=github&utm_medium=jichangtuijian)                  | ✔       | ✔     | ✔     |     |         |      |
-| [NekoBox for Android](https://nekoboxforandroid.org/?utm_source=github&utm_medium=jichangtuijian)      |         |       |       |     | ✔       |      |
-| [NekoRay](https://nekoray.org/?utm_source=github&utm_medium=jichangtuijian)                            | ✔       |       | ✔     |     |         |      |
-| [OpenClash](https://openclash.org/?utm_source=github&utm_medium=jichangtuijian)                        |         |       |       |     |         | ✔    |
-| [PassWall2](https://passwall2.org/?utm_source=github&utm_medium=jichangtuijian)                        |         |       |       |     |         | ✔    |
-| [Potatso Lite](https://potatso.org/?utm_source=github&utm_medium=jichangtuijian)                       |         |       |       | ✔   |         |      |
-| [Karing](https://getkaring.org/?utm_source=github&utm_medium=jichangtuijian)                           | ✔       | ✔     | ✔     | ✔   | ✔       |      |
-| [Loon](https://getloon.org/?utm_source=github&utm_medium=jichangtuijian)                               |         |       |       | ✔   |         |      |
-| [Quantumult](https://quantumult.org/?utm_source=github&utm_medium=jichangtuijian)                      |         |       |       | ✔   |         |      |
-| [Quantumult X](https://quantumultx.org/?utm_source=github&utm_medium=jichangtuijian)                   |         | ✔     |       | ✔   |         |      |
-| [Shadowrocket](https://shadowrocketios.org/?utm_source=github&utm_medium=jichangtuijian)               |         | ✔     |       | ✔   |         |      |
-| [ShadowsocksR Plus+](https://ssrplus.org/?utm_source=github&utm_medium=jichangtuijian)                 |         |       |       |     |         | ✔    |
-| [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian)                          | ✔       | ✔     | ✔     | ✔   | ✔       |      |
-| [Stash](https://getstash.org/?utm_source=github&utm_medium=jichangtuijian)                             |         | ✔     |       | ✔   |         |      |
-| [Surfboard](https://getsurfboard.org/?utm_source=github&utm_medium=jichangtuijian)                     |         |       |       |     | ✔       |      |
-| [Surge](https://nssurge.org/?utm_source=github&utm_medium=jichangtuijian)                              |         | ✔     |       | ✔   |         |      |
-| [v2rayN](https://v2rayn.org/?utm_source=github&utm_medium=jichangtuijian)                              | ✔       | ✔     | ✔     |     |         |      |
-| [v2rayNG](https://v2rayng.org/?utm_source=github&utm_medium=jichangtuijian)                            |         |       |       |     | ✔       |      |
-| [V2rayU](https://v2rayu.org/?utm_source=github&utm_medium=jichangtuijian)                              |         | ✔     |       |     |         |      |
-| [WinXray](https://winxray.org/?utm_source=github&utm_medium=jichangtuijian)                            | ✔       |       |       |     |         |      |
+| اپ کلاینت                 | Windows |  <img width=5/>macOS<img width=5/>  |  <img width=11/>Linux<img width=11/>  |   <img width=19/>iOS<img width=19/>   | <img width=3/>Android<img width=3/> | <img width=7/>روتر<img width=7/> |
+|------------------------|---------|-------|-------|-----|---------|-----|
+| [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=jichangtuijian)      |         |       |       |     | ✔       |     |
+| [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangtuijian)      | ✔       | ✔     | ✔     |     |         |     |
+| [Clash Meta For Android](https://clashmetaforandroid.org/?utm_source=github&utm_medium=jichangtuijian) |         |       |       |     | ✔       |     |
+| [Clash Mi](https://clash-mi.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     | ✔       | ✔   | ✔       |     |
+| [Clash Nyanpasu](https://clashnyanpasu.org/?utm_source=github&utm_medium=jichangtuijian)         | ✔       | ✔     | ✔     |     |         |     |
+| [Clash Party](https://clash-party.org/?utm_source=github&utm_medium=jichangtuijian)            | ✔       | ✔     | ✔     |     |         |     |
+| [Clash Verge](https://clashverge.org/?utm_source=github&utm_medium=jichangtuijian)            | ✔       | ✔     | ✔     |     |         |     |
+| [Clash Verge Rev](https://clashvergerev.org/?utm_source=github&utm_medium=jichangtuijian)        | ✔       | ✔     | ✔     |     |         |     |
+| [ClashN](https://getclashn.org/?utm_source=github&utm_medium=jichangtuijian)                 | ✔       |       |       |     |         |     |
+| [ClashX](https://clashx.org/?utm_source=github&utm_medium=jichangtuijian)                 |         | ✔     |       |     |         |     |
+| [ClashX Meta](https://clashxmeta.org/?utm_source=github&utm_medium=jichangtuijian)            |         | ✔     |       |     |         |     |
+| [ClashX Pro](https://clashxpro.org/?utm_source=github&utm_medium=jichangtuijian)             |         | ✔     |       |     |         |     |
+| [FlClash](https://getflclash.org/?utm_source=github&utm_medium=jichangtuijian)                | ✔       | ✔     | ✔     |     | ✔       |     |
+| [Hiddify](https://gethiddify.org/?utm_source=github&utm_medium=jichangtuijian)           | ✔       | ✔     | ✔     | ✔   | ✔       |     |
+| [Mihomo Party](https://mihomo-party.org/?utm_source=github&utm_medium=jichangtuijian)           | ✔       | ✔     | ✔     |     |         |     |
+| [NekoBox for Android](https://nekoboxforandroid.org/?utm_source=github&utm_medium=jichangtuijian)    |         |       |       |     | ✔       |     |
+| [NekoRay](https://nekoray.org/?utm_source=github&utm_medium=jichangtuijian)                | ✔       |       | ✔     |     |         |     |
+| [OpenClash](https://openclash.org/?utm_source=github&utm_medium=jichangtuijian)              |         |       |       |     |         | ✔   |
+| [PassWall2](https://passwall2.org/?utm_source=github&utm_medium=jichangtuijian)              |         |       |       |     |         | ✔   |
+| [Potatso Lite](https://potatso.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       | ✔   |         |     |
+| [Karing](https://getkaring.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     | ✔       | ✔   | ✔       |     |
+| [Loon](https://getloon.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       | ✔   |         |     |
+| [Quantumult](https://quantumult.org/?utm_source=github&utm_medium=jichangtuijian)             |         |       |       | ✔   |         |     |
+| [Quantumult X](https://quantumultx.org/?utm_source=github&utm_medium=jichangtuijian)           |         | ✔     |       | ✔   |         |     |
+| [Shadowrocket](https://shadowrocketios.org/?utm_source=github&utm_medium=jichangtuijian)           |         | ✔       |       | ✔   |         |     |
+| [ShadowsocksR Plus+](https://ssrplus.org/?utm_source=github&utm_medium=jichangtuijian)     |         |       |       |     |         | ✔   |
+| [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     | ✔     | ✔   | ✔       |     |
+| [Stash](https://getstash.org/?utm_source=github&utm_medium=jichangtuijian)                  |         | ✔     |       | ✔   |         |     |
+| [Surfboard](https://getsurfboard.org/?utm_source=github&utm_medium=jichangtuijian)              |         |       |       |     | ✔       |     |
+| [Surge](https://nssurge.org/?utm_source=github&utm_medium=jichangtuijian)              |         | ✔     |       | ✔   |         |     |
+| [v2rayN](https://v2rayn.org/?utm_source=github&utm_medium=jichangtuijian)                 | ✔       | ✔       | ✔       |     |         |     |
+| [v2rayNG](https://v2rayng.org/?utm_source=github&utm_medium=jichangtuijian)                |         |       |       |     | ✔       |     |
+| [V2rayU](https://v2rayu.org/?utm_source=github&utm_medium=jichangtuijian)                 |         | ✔     |       |     |         |     |
+| [WinXray](https://winxray.org/?utm_source=github&utm_medium=jichangtuijian)                | ✔       |       |       |     |         |     |
 
-## باشگاه مزایای سرویس‌های VPN در Telegram #AD
+</details>
 
-[گروه قرعه‌کشی سرویس‌ها](https://331024.de/archives/choujiang)｜[گروه گفت‌وگوی سرویس‌ها](https://331024.de/archives/choujiang)｜[گروه تست و تجربه سرویس‌ها](https://331024.de/archives/choujiang)
+## مرکز مزایای سرویس VPN در Telegram #AD
+[گروه قرعه‌کشی سرویس VPN](https://331024.de/archives/choujiang)｜[گروه گفت‌وگوی سرویس VPN](https://331024.de/archives/choujiang)｜[گروه آزمایش سرویس VPN](https://331024.de/archives/choujiang)</br>
 
-https://331024.de/archives/choujiang
+[https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 
-## معرفی سرویس‌های پایدار و کاربردی VPN و نودهای پیشنهادی در سال 2026
+## ۱۰ سرویس VPN پایدار و کاربردی پیشنهادی و اشتراک‌گذاری نود برای 2026
 
-> [!NOTE]
-> هر سرویس VPN ممکن است در هر زمانی فعالیت خود را متوقف کند یا ناپدید شود. اگر نگران این موضوع هستید، پلن ماهانه تهیه کنید. اگر قیمت پایین‌تر برایتان مهم‌تر است، می‌توانید پلن سالانه بگیرید، اما مسئولیت ریسک آن بر عهده خودتان است.
+> 💡 **نکته مطالعه:** هر سرویسی ممکن است هر لحظه تعطیل شود. برای کاهش ریسک از پرداخت ماهانه استفاده کنید؛ اگر قیمت کمتر می‌خواهید می‌توانید سالانه بخرید، اما مسئولیت ریسک با خود شماست.
 
-### 01. Mojie (魔戒)
 
-آخرین آدرس وب‌سایت رسمی: [mojie.co](https://to.iix.im/mj10)
-❌ پلن دوره‌ای丨✅ پلن بدون تاریخ انقضا丨❌ IP خانگی
-**مزیت:** پلن‌های بدون تاریخ انقضا ارائه می‌کند و امکان خرید از 1 یوان وجود دارد. یکی از بهترین گزینه‌ها برای سرویس پشتیبان.
-✅ [بررسی](https://github.com/jdnei/mojie)
+> [!NOTE] 
+> **کلیک**روی عنوان دسته‌بندی‌های زیر کنید تا**سریع بروید**به پیشنهادهای مربوطه. ترتیب فهرست رتبه‌بندی نیست و امتیاز ستاره‌ای فقط بر پایه تجربه شخصی و برای مرجع است.
 
----
+| [سری استاندارد](#standard) | [سری اقتصادی](#value) | [سری خط اختصاصی](#premium) | [سری ویژه](#specialty) |
+| --- | --- | --- | --- |
+| برای کسانی که سرویس قدیمی و کم‌دردسر با قیمت و سرعت متوسط برای استفاده بلندمدت می‌خواهند | ارزش خرید بالا، قیمت پایین، ترافیک کافی، مناسب به‌عنوان پشتیبان | انتقال با خط اختصاصی، پایداری بیشتر در ساعات شلوغ شب، ترافیک محدود، مناسب استفاده بلندمدت بدون نیاز ویژه | IP خانگی، Emby، پلن بدون انقضا، کاربران شین‌جیانگ و نیازهای ویژه دیگر |
+| پایداری ★★★★☆<br>سرعت ★★★☆☆<br>تأخیر ★★★☆☆<br>ارزش خرید ★★☆☆☆<br> | پایداری ★★☆☆☆<br>سرعت ★★☆☆☆<br>تأخیر ★★☆☆☆<br>ارزش خرید ★★★★★<br> | پایداری ★★★★☆<br>سرعت ★★★★★<br>تأخیر ★★★★☆<br>ارزش خرید ★☆☆☆☆<br> | پایداری ★★☆☆☆<br>سرعت ★★☆☆☆<br>تأخیر ★★★☆☆<br>ارزش خرید ★★☆☆☆<br> | پایداری ★★★★★<br>سرعت ★★★★☆<br>تأخیر ★★★☆☆<br>ارزش خرید ★★★☆☆<br> |
 
-### 02. Bajie (八戒)
 
-آخرین آدرس وب‌سایت رسمی: [bajie.la](https://to.iix.im/bj01)
-✅ پلن دوره‌ای丨✅ پلن بدون تاریخ انقضا丨❌ IP خانگی
-**مزیت:** امکان خرید از 1 یوان؛ گزینه‌ای مناسب برای سرویس پشتیبان و رقیب مستقیم Mojie. همچنین پلن‌های دوره‌ای نیز ارائه می‌کند.
-✅ [بررسی](https://github.com/jdnei/bajie)
 
----
-
-### 03. M78 Nebula (m78星云)
-
-آخرین آدرس وب‌سایت رسمی: [www.m78.pro](https://to.iix.im/xy03) (از داخل سرزمین اصلی چین قابل دسترسی نیست)
-✅ پلن دوره‌ای丨✅ پلن بدون تاریخ انقضا丨❌ IP خانگی丨✅ سرویس Emby
-**مزیت:** علاوه بر نودهای معمولی، امکان فعال‌سازی هم‌زمان حساب تماشای فیلم Emby را نیز فراهم می‌کند. برای افرادی که زیاد فیلم می‌بینند گزینه‌ای مناسب است و می‌تواند هزینه قابل‌توجهی را کاهش دهد.
-✅ [بررسی](https://github.com/jdnei/m78)
+<a id="standard"></a>
+## 📦 سری استاندارد
+### 01. NiceCloud سرویس VPN
+جدیدترین وب‌سایت رسمی:[nicecloud.co](https://to.iix.im/nc02)</br>
+✅پلن دوره‌ای丨✅پلن بدون انقضا丨❌IP خانگی</br>
+مزایا:NiceCloud از خطوط اختصاصی IEPL و نودهای رله باکیفیت استفاده می‌کند و یک سرویس VPN باسابقه با عملکرد پایدار زیر بار است</br>
+✅[بررسی](https://github.com/jdnei/nicecloud)</br>
 
 ---
 
-### 04. Liangxin Cloud (良心云)
-
-آخرین آدرس وب‌سایت رسمی: [良心云.com](https://to.iix.im/lx01)
-✅ پلن دوره‌ای丨✅ پلن بدون تاریخ انقضا丨❌ IP خانگی
-**مزیت:** با توجه به شدت بالای مسدودسازی‌های اخیر توسط GFW، عملکرد این سرویس نسبتاً قوی است. همچنین نود اختصاصی برای دانلودهای طولانی با ضریب مصرف ترافیک 0.01× ارائه می‌کند.
-✅ [بررسی](https://github.com/jdnei/liangxin)
-
----
-
-### 05. Chuixue Cloud (吹雪云)
-
-آخرین آدرس وب‌سایت رسمی: [吹雪云.com](https://xn--9kqs1lo79d.com/#/register?code=RRAhwArP)
-✅ پلن دوره‌ای丨✅ پلن بدون تاریخ انقضا丨❌ IP خانگی
-**مزیت:** از رقبای Liangxin Cloud است و روی قیمت پایین و حجم بالا تمرکز دارد. با پرداخت ماهانه نیز ریسک تعطیل شدن سرویس کمتر متوجه کاربر می‌شود.
-✅ [بررسی](https://github.com/jdnei/chuixuecloud)
+### 02. GouGou Accelerator سرویس VPN
+جدیدترین وب‌سایت رسمی:[GouGou Accelerator.com](https://to.iix.im/gg01) </br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨❌IP خانگی</br>
+مزایا:سرعت متوسط، استفاده ساده و نسبتاً ارزان برای یک سرویس باسابقه</br>
+✅[بررسی](https://github.com/jdnei/gougou)</br>
 
 ---
 
-### 06. Gougou Accelerator (狗狗加速)
+### 03. Naiyun سرویس VPN
+`در 6/30 از دسترس خارج شد. در 7/1 وب‌سایت رسمی جدید راه‌اندازی و توسط تیم خارج از کشور تحویل گرفته شد. پلن سالانه نویسنده در 7/5 بازیابی شد.`</br>
+راهنمای بازیابی حساب/پلن:[recovery](https://github.com/jdnei/naiyun#recovery)</br>
+جدیدترین وب‌سایت رسمی:[naiun.io](https://to.iix.im/ny10)</br>
+✅پلن دوره‌ای丨✅پلن بدون انقضا丨❌IP خانگی</br>
+مزایا:بیش از 58 نود ارائه می‌کند، از جمله مکان‌های کمتر رایج اما کاربردی مانند نیجریه و ترکیه. همچنین ~~5 مسیر IP خانگی~~ دارد!</br>
+✅[بررسی](https://github.com/jdnei/naiyun)</br>
 
-آخرین آدرس وب‌سایت رسمی: [狗狗加速.com](https://to.iix.im/gg01)
-✅ پلن دوره‌ای丨❌ پلن بدون تاریخ انقضا丨❌ IP خانگی
-**مزیت:** سرعت آن در حد متوسط و قابل قبول است و برای کسانی مناسب است که یک سرویس ساده و بی‌دردسر می‌خواهند. در میان سرویس‌های قدیمی و باسابقه نیز نسبتاً ارزان محسوب می‌شود.
-✅ [بررسی](https://github.com/jdnei/gougou)
-
----
-
-### 07. NiceCloud
-
-آخرین آدرس وب‌سایت رسمی: [nicecloud.co](https://nicecloud.co/register?aff=W2RtB8Xq)
-✅ پلن دوره‌ای丨✅ پلن بدون تاریخ انقضا丨❌ IP خانگی
-**مزیت:** NiceCloud از خطوط اختصاصی IEPL و نودهای واسط باکیفیت استفاده می‌کند. این سرویس VPN باسابقه، عملکرد نسبتاً پایدار و کنترل بار مناسبی دارد.
-✅ [بررسی](https://github.com/jdnei/xiaofeiji)
 
 ---
 
-### 08. Yifen (一分机场)
-
-آخرین آدرس وب‌سایت رسمی: [一分机场.com](https://to.iix.im/yf01)
-✅ پلن دوره‌ای丨❌ پلن بدون تاریخ انقضا丨❌ IP خانگی
-**مزیت:** گزینه‌ای اقتصادی برای کاربران تازه‌کار است. قیمت پایینی دارد و برای کسانی که حساسیت زیادی روی کیفیت ندارند مناسب است.
-✅ [بررسی](https://github.com/jdnei/yifen)
-
----
-
-### 09. Peiqian (赔钱机场)
-
-آخرین آدرس وب‌سایت رسمی: [赔钱机场.com](https://to.iix.im/pq01)
-✅ پلن دوره‌ای丨❌ پلن بدون تاریخ انقضا丨❌ IP خانگی
-**مزیت:** گزینه‌ای اقتصادی برای کاربران تازه‌کار است. قیمت پایینی دارد و برای کسانی که نیاز به کیفیت بسیار بالا ندارند قابل انتخاب است.
-✅ [بررسی](https://github.com/jdnei/peiqianjichang)
+### 04. XSUSXSUS Small سرویس VPN
+جدیدترین وب‌سایت رسمی:[xsus.cloud](https://to.iix.im/xsus02)</br>
+✅پلن دوره‌ای丨✅پلن بدون انقضا丨❌IP خانگی丨✅خط اختصاصی</br>
+مزایا:سرویس باسابقه با پایداری بسیار خوب و انواع پلن‌ها؛ مناسب کاربرانی که دردسر نمی‌خواهند</br>
+✅[بررسی](https://github.com/jdnei/xsus)
 
 ---
 
-### 10. FlyingBird (飞鸟云)
-
-آخرین آدرس وب‌سایت رسمی: [fbweb03.flyingbird.la](https://fbweb03.flyingbird.la/auth/register?code=T7N16oUx)
-✅ پلن دوره‌ای丨❌ پلن بدون تاریخ انقضا丨❌ IP خانگی丨✅ کلاینت اختصاصی
-**مزیت:** در حال حاضر عمدتاً از طریق کلاینت اختصاصی قابل استفاده است. برای افرادی که کار با نرم‌افزارهای عبور از محدودیت اینترنت را بلد نیستند، گزینه مناسبی محسوب می‌شود.
-✅ [بررسی](https://github.com/jdnei/flyingbird)
-
----
-
-### 11. Naiyun (奈云)
-
-`در 30 ژوئن ارتباط قطع شد. در 1 ژوئیه وب‌سایت جدید راه‌اندازی شد و تیم خارج از کشور مدیریت را بر عهده گرفت. در 5 ژوئیه، پلن سالانه نویسنده وبلاگ بازیابی شد.`
-
-آموزش بازیابی حساب و پلن: [recovery](https://github.com/jdnei/naiyun#recovery)
-آخرین آدرس وب‌سایت رسمی: [naiun.io](https://to.iix.im/ny10)
-✅ پلن دوره‌ای丨✅ پلن بدون تاریخ انقضا丨❌ IP خانگی
-**مزیت:** بیش از 58 نود ارائه می‌کند که شامل تعدادی موقعیت جغرافیایی کمتر رایج مانند نیجریه، ترکیه و مناطق دیگری است که کمتر استفاده می‌شوند اما در برخی موارد بسیار کاربردی‌اند. همچنین ~~5 نود IP خانگی~~ نیز داشته است!
-✅ [بررسی](https://github.com/jdnei/naiyun)
+### 05. CTC سرویس VPN
+جدیدترین وب‌سایت رسمی:[www.ctc.run](https://to.iix.im/ctc03)</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨❌IP خانگی丨✅خط اختصاصی</br>
+مزایا:سرویس باسابقه با خط اختصاصی؛ عیب آن قیمت بالا است</br>
+✅[بررسی](https://github.com/jdnei/ctc)
 
 ---
 
-### 12. Mitce
-
-آخرین آدرس وب‌سایت رسمی: [mitce.io](https://to.iix.im/mt01)
-✅ پلن دوره‌ای丨❌ پلن بدون تاریخ انقضا丨✅ IP خانگی丨✅ ترافیک نامحدود
-**مزیت:** علاوه بر نودهای متداول، نودهایی با IP خانگی هنگ‌کنگ (HK) نیز ارائه می‌کند. پلن‌های دارای ترافیک نامحدود هم موجود است و کاربران دارای چنین نیازی می‌توانند آن را تهیه کنند.
-✅ [بررسی](https://github.com/jdnei/mitce)
-
----
-
-### 13. LinkCube / Green Leaf Cloud (绿叶云)
-
-آخرین آدرس وب‌سایت رسمی: [linkcube.org](https://to.iix.im/ly02)
-✅ پلن دوره‌ای丨❌ پلن بدون تاریخ انقضا丨❌ IP خانگی丨✅ خط اختصاصی
-**مزیت:** امکان تجربه خطوط اختصاصی با قیمتی نسبتاً پایین‌تر را فراهم می‌کند. سه پلن مشخص و شفاف دارد و ساختار قیمت‌گذاری آن پیچیدگی خاصی ندارد.
-✅ [بررسی](https://github.com/jdnei/linkcube)
+### 06. Suying 666 سرویس VPN
+جدیدترین وب‌سایت رسمی:[suying91.xyz](https://to.iix.im/sy03)</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨❌IP خانگی</br>
+مزایا:یک سرویس باسابقه و معمولی که احتمالاً بیشتر کاربران نامش را شنیده‌اند</br>
+✅[بررسی](https://github.com/jdnei/suying666)
 
 ---
 
-### 14. WgetCloud
-
-آخرین آدرس وب‌سایت رسمی: [wgetcloud.ltd](https://invite.wgetcloud.ltd/auth/register?code=EAv6F4)
-✅ پلن دوره‌ای丨❌ پلن بدون تاریخ انقضا丨❌ IP خانگی丨✅ خط اختصاصی
-**مزیت:** خطوط اختصاصی ارائه می‌کند؛ نقطه‌ضعف اصلی آن قیمت بالاست.
-✅ [بررسی](https://github.com/jdnei/WgetCloud)
-
----
-
-### 15. TAG
-
-آخرین آدرس وب‌سایت رسمی: [tagss.pro](https://to.iix.im/tag03)
-✅ پلن دوره‌ای丨❌ پلن بدون تاریخ انقضا丨❌ IP خانگی丨✅ خط اختصاصی
-**مزیت:** دارای خطوط اختصاصی و نودهایی در مناطق جغرافیایی کمتر رایج است. اگر FlowerCloud یا Nexitally را نمی‌پسندید، می‌تواند گزینه جایگزین (Plan B) باشد.
-✅ [بررسی](https://github.com/jdnei/TAG)
+### 07. V2PAW سرویس VPN
+جدیدترین وب‌سایت رسمی:[dash.v2paw.com](https://to.iix.im/v201)</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨❌IP خانگی</br>
+مزایا:سرویس باسابقه که در انجمن FanFanQiang FFQ به‌شدت توصیه شده است</br>
+✅[بررسی](https://github.com/jdnei/v2paw)
 
 ---
 
-### 16. Ytoo
+### 08. SSRdog سرویس VPN
+جدیدترین وب‌سایت رسمی:[dog.ssrdog.com](https://to.iix.im/dog01)</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨❌IP خانگی丨✅خط اختصاصی</br>
+مزایا:سرویس باسابقه با خط اختصاصی؛ عیب آن قیمت بالا است</br>
+✅[بررسی](https://github.com/jdnei/ssrdog)
 
-آخرین آدرس وب‌سایت رسمی: [y-too.net](https://to.iix.im/yt01)
-✅ پلن دوره‌ای丨❌ پلن بدون تاریخ انقضا丨❌ IP خانگی丨✅ خط اختصاصی
-**مزیت:** دارای خطوط اختصاصی و نودهایی در مناطق کمتر رایج است. اگر FlowerCloud یا Nexitally را نمی‌پسندید، می‌تواند گزینه جایگزین (Plan B) باشد.
-✅ [بررسی](https://github.com/jdnei/ytoo)
+
+<a id="value"></a>
+## 💰 سری اقتصادی
+### 01. Mojie سرویس VPN
+جدیدترین وب‌سایت رسمی:[mojie.co](https://to.iix.im/mj10)</br>
+❌پلن دوره‌ای丨✅پلن بدون انقضا丨❌IP خانگی</br>
+مزایا:پلن بدون انقضا از 1 یوان ارائه می‌کند؛ گزینه‌ای بسیار مناسب برای سرویس پشتیبان.</br>
+✅[بررسی](https://github.com/jdnei/mojie)</br>
+
+---
+
+### 02. Bajie سرویس VPN
+جدیدترین وب‌سایت رسمی:[bajie.la](https://to.iix.im/bj01)</br>
+✅پلن دوره‌ای丨✅پلن بدون انقضا丨❌IP خانگی</br>
+مزایا:از 1 یوان قابل خرید است، برای پشتیبان مناسب است، رقیب Mojie محسوب می‌شود و پلن دوره‌ای هم دارد.</br>
+✅[بررسی](https://github.com/jdnei/bajie)</br>
 
 ---
 
-### 17. FlowerCloud (花云)
+### 03. Liangxin Cloud سرویس VPN
+جدیدترین وب‌سایت رسمی:[Liangxin Cloud.com](https://to.iix.im/lx01)</br>
+✅پلن دوره‌ای丨✅پلن بدون انقضا丨❌IP خانگی</br>
+مزایا:در برابر مسدودسازی‌های اخیر GFW عملکرد خوبی داشته و نود اختصاصی دانلود بلندمدت با محاسبه ترافیک 0.01× ارائه می‌کند</br>
+✅[بررسی](https://github.com/jdnei/liangxin)</br>
 
-آخرین آدرس وب‌سایت رسمی: [flowercloud.net](https://api-flowercloud.com/aff.php?aff=20149)
-✅ پلن دوره‌ای丨❌ پلن بدون تاریخ انقضا丨❌ IP خانگی丨✅ خط اختصاصی
-**مزیت:** یک سرویس قدیمی و باسابقه مبتنی بر خطوط اختصاصی است. از نظر فنی، مانند Nexitally توانمند است و سابقه نسبتاً قابل‌اعتمادی دارد. اگر بودجه برایتان مسئله مهمی نیست، می‌توانید مستقیماً سراغ آن بروید.
-✅ [بررسی](https://github.com/jdnei/FlowerCloud)
+---
+### 04. Chuixue Cloud سرویس VPN
+جدیدترین وب‌سایت رسمی:[Chuixue Cloud.com](https://xn--9kqs1lo79d.com/#/register?code=RRAhwArP)</br>
+✅پلن دوره‌ای丨✅پلن بدون انقضا丨❌IP خانگی</br>
+مزایا:رقیب Liangxin Cloud با تمرکز بر قیمت پایین و ترافیک زیاد؛ پرداخت ماهانه ریسک تعطیلی ناگهانی را کمتر می‌کند</br>
+✅[بررسی](https://github.com/jdnei/chuixuecloud)</br>
 
 ---
 
-### 18. Nexitally / 奶昔
-
-آخرین آدرس وب‌سایت رسمی: [nxonearth.com](https://nxonearth.com/signupbyemail.aspx?MemberCode=71c53b664dfa4413b7b34ffd5cd11f5820230223165339)
-✅ پلن دوره‌ای丨❌ پلن بدون تاریخ انقضا丨❌ IP خانگی丨✅ خط اختصاصی
-**مزیت:** یکی از سرویس‌های باسابقه خطوط اختصاصی است. مانند FlowerCloud از توان فنی خوبی برخوردار است و قابل‌اعتماد محسوب می‌شود. اگر محدودیت بودجه ندارید، می‌توانید مستقیماً این گزینه را انتخاب کنید.
-✅ [بررسی](https://github.com/jdnei/naixi)
+### 05. Mitce سرویس VPN
+جدیدترین وب‌سایت رسمی:[mitce.io](https://to.iix.im/mt01)</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨✅IP خانگی丨✅ترافیک نامحدود</br>
+مزایا:علاوه بر نودهای معمول، نودهای IP خانگی هنگ‌کنگ و پلن‌های ترافیک نامحدود نیز ارائه می‌کند.</br>
+✅[بررسی](https://github.com/jdnei/mitce)</br>
 
 ---
+
+### 06. SKYLUMO سرویس VPN
+جدیدترین وب‌سایت رسمی:[skylumo.cc](https://to.iix.im/sky02)</br>
+✅پلن دوره‌ای丨✅پلن بدون انقضا丨❌IP خانگی</br>
+مزایا:پلن ماهانه را انتخاب نکنید؛ مستقیماً پلن سالانه 49 یوان را بگیرید</br>
+✅[بررسی](https://github.com/jdnei/SKYLUMO)
+
+---
+
+### 07.Yifen سرویس VPN
+جدیدترین وب‌سایت رسمی:[Yifen سرویس VPN.com](https://to.iix.im/yf01)</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨❌IP خانگی</br>
+مزایا:گزینه اقتصادی سطح ورودی؛ ارزان و مناسب کسانی که حساسیت زیادی به کیفیت ندارند</br>
+✅[بررسی](https://github.com/jdnei/yifen)</br>
+
+---
+
+### 08. Peiqian سرویس VPN
+جدیدترین وب‌سایت رسمی:[Peiqian سرویس VPN.com](https://to.iix.im/pq01)</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨❌IP خانگی</br>
+مزایا:گزینه اقتصادی سطح ورودی؛ ارزان و مناسب کسانی که حساسیت زیادی به کیفیت ندارند</br>
+✅[بررسی](https://github.com/jdnei/peiqianjichang)</br>
+
+
+<a id="premium"></a>
+## 🚀 سری خط اختصاصی
+### 01. WgetCloudخط اختصاصی سرویس VPN
+جدیدترین وب‌سایت رسمی:[wgetcloud.ltd](https://to.iix.im/wc02)（ 中国大陆无法访问 ）</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨❌IP خانگی丨✅خط اختصاصی</br>
+مزایا:سرویس باسابقه با خط اختصاصی؛ گران است اما پایداری خوبی دارد</br>
+✅[بررسی](https://github.com/jdnei/WgetCloud)
+
+---
+
+### 02. bygBaiyueguangخط اختصاصی سرویس VPN
+جدیدترین وب‌سایت رسمی:[bygcloud.com](https://to.iix.im/byg02)</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨❌IP خانگی丨✅خط اختصاصی</br>
+مزایا:کاربران کمتر، ارزان‌تر از FlowerCloud، باسابقه و پایدار</br>
+✅[بررسی](https://github.com/jdnei/WgetCloud)
+
+---
+
+### 03. TAGخط اختصاصی سرویس VPN
+جدیدترین وب‌سایت رسمی:[tagss.pro](https://to.iix.im/tag03)</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨❌IP خانگی丨✅خط اختصاصی</br>
+مزایا:خط اختصاصی و نودهای کم‌یاب دارد؛ گزینه Plan B برای کسانی که FlowerCloud یا Nexitally را نمی‌خواهند</br>
+✅[بررسی](https://github.com/jdnei/TAG)
+
+---
+
+### 04. Ytooخط اختصاصی سرویس VPN
+جدیدترین وب‌سایت رسمی:[y-too.net](https://to.iix.im/yt01)</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨❌IP خانگی丨✅خط اختصاصی</br>
+مزایا:خط اختصاصی و نودهای کم‌یاب دارد؛ گزینه Plan B برای کسانی که FlowerCloud یا Nexitally را نمی‌خواهند</br>
+✅[بررسی](https://github.com/jdnei/ytoo)
+
+
+---
+
+
+### 05. Lüye Cloudخط اختصاصی سرویس VPN
+جدیدترین وب‌سایت رسمی:[linkcube.org](https://to.iix.im/ly02)</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨❌IP خانگی丨✅خط اختصاصی</br>
+مزایا:با قیمت کمی پایین‌تر خط اختصاصی را تجربه می‌کنید؛ سه پلن شفاف و بدون پیچیدگی</br>
+✅[بررسی](https://github.com/jdnei/linkcube)
+
+---
+
+### 06. FlowerCloud سرویس VPN
+جدیدترین وب‌سایت رسمی:[flowercloud.net](https://api-flowercloud.com/aff.php?aff=20149)</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨❌IP خانگی丨✅خط اختصاصی</br>
+مزایا:سرویس خط اختصاصی باسابقه با توان فنی قوی مانند Nexitally و شهرت قابل‌اعتماد؛ اگر بودجه محدود نیست، انتخاب مستقیم است</br>
+✅[بررسی](https://github.com/jdnei/FlowerCloud)</br>
+
+---
+
+### 07. Nexitally سرویس VPN
+جدیدترین وب‌سایت رسمی:[nxonearth.com](https://nxonearth.com/signupbyemail.aspx?MemberCode=71c53b664dfa4413b7b34ffd5cd11f5820230223165339)</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨❌IP خانگی丨✅خط اختصاصی</br>
+مزایا:سرویس خط اختصاصی باسابقه با توان فنی قوی مانند FlowerCloud و قابل اعتماد؛ اگر بودجه محدود نیست، انتخاب مستقیم است</br>
+✅[بررسی](https://github.com/jdnei/naixi)</br>
+
+
+
+<a id="specialty"></a>
+## ✨ سری ویژه
+
+
+
+### 01. Crush Cloud سرویس VPN
+جدیدترین وب‌سایت رسمی:[crush91.cc](https://to.iix.im/cr01)</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨✅قابل استفاده در شین‌جیانگ丨✅خط اختصاصی丨✅سرویس Emby丨✅دستگاه نامحدود</br>
+مزایا:⚠️：فقط کاربران دارای IPv6 می‌توانند استفاده کنند. مناسب کسانی که سرعت خیلی بالا نمی‌خواهند اما امکانات بیشتری لازم دارند</br>
+✅[بررسی](https://github.com/jdnei/crush)
+
+---
+
+### 02. KittyNetwork سرویس VPN
+جدیدترین وب‌سایت رسمی:[kitty.fo](https://to.iix.im/kn01)（中国大陆无法访问）</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨❌IP خانگی丨✅قابل استفاده در شین‌جیانگ</br>
+مزایا:نودهای قابل استفاده در شین‌جیانگ چین ارائه می‌کند</br>
+✅[بررسی](https://github.com/jdnei/kitty)
+
+---
+
+### 03. m78Nebula سرویس VPN
+جدیدترین وب‌سایت رسمی:[www.m78.pro](https://to.iix.im/xy03)（ 中国大陆无法访问 ）</br>
+✅پلن دوره‌ای丨✅پلن بدون انقضا丨❌IP خانگی丨✅سرویس Emby</br>
+مزایا:علاوه بر نودهای معمول، امکان فعال‌سازی هم‌زمان حساب تماشای Emby را دارد؛ گزینه‌ای عالی برای دوستداران فیلم و موجب صرفه‌جویی قابل توجه</br>
+✅[بررسی](https://github.com/jdnei/m78)</br>
+
+---
+
+### 04. YkkCloud سرویس VPN
+جدیدترین وب‌سایت رسمی:[panel.ykkk.best](https://to.iix.im/ykk01)</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨❌IP خانگی丨✅سرویس Emby</br>
+مزایا:علاوه بر نودهای معمول، مزایای تماشای Emby را هدیه می‌دهد؛ گزینه جایگزین برای دوستداران فیلم</br>
+✅[بررسی](https://github.com/jdnei/ykk)</br>
+
+---
+
+### 05. NIVA Network سرویس VPN
+جدیدترین وب‌سایت رسمی:[app.mizuku.net](https://to.iix.im/niva01)</br>
+✅پلن دوره‌ای丨✅پلن بدون انقضا丨✅IP خانگی</br>
+مزایا:گزینه پشتیبان برای مصرف کم، نیاز محدود به IP خانگی و حساسیت پایین به سرعت</br>
+✅[بررسی](https://github.com/jdnei/niva)
+
+
+---
+
+### 06. NianYunNianYun سرویس VPN
+جدیدترین وب‌سایت رسمی:[xnyun.wiki](https://to.iix.im/xny01)（中国大陆无法访问）</br>
+✅پلن دوره‌ای丨✅پلن بدون انقضا丨✅IP خانگی</br>
+مزایا:گزینه پشتیبان برای کاربرانی که نیاز زیادی به کیفیت مسیر ندارند اما به IP خانگی در مناطق مختلف احتیاج دارند</br>
+✅[بررسی](https://github.com/jdnei/nianyun)
+
+---
+
+### 07. SpeedCatSpeedCat سرویس VPN
+جدیدترین وب‌سایت رسمی:[speedcat.la](https://to.iix.im/sc01)</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨✅IP خانگی丨✅دستگاه نامحدود</br>
+مزایا:نودهای پایه را بدون محدودیت تعداد دستگاه متصل ارائه می‌کند؛ مناسب کاربران با دستگاه‌های زیاد و مصرف کم</br>
+✅[بررسی](https://github.com/jdnei/speedcat)
+
+---
+
+### 08. FlyingBird Cloud سرویس VPN
+جدیدترین وب‌سایت رسمی:[fbweb03.flyingbird.la](https://fbweb03.flyingbird.la/auth/register?code=T7N16oUx)</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨❌IP خانگی丨✅اپ کلاینت</br>
+مزایا:فقط از طریق اپ کلاینت؛ مناسب کسانی که کار با نرم‌افزارهای دورزننده را بلد نیستند</br>
+✅[بررسی](https://github.com/jdnei/flyingbird)</br>
+
+---
+### 09. Xingdao Dream سرویس VPN
+جدیدترین وب‌سایت رسمی:[awasdfeqr.xdmttt4.click](https://to.iix.im/xmd03)</br>
+✅پلن دوره‌ای丨❌پلن بدون انقضا丨❌IP خانگی丨✅اپ کلاینت</br>
+مزایا:فقط از طریق اپ کلاینت؛ مناسب کسانی که کار با نرم‌افزارهای دورزننده را بلد نیستند</br>
+✅[بررسی](https://github.com/jdnei/xingdaomeng)</br>
+
