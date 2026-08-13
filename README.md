@@ -112,7 +112,7 @@
 官网最新地址：[xsus.cloud](https://to.iix.im/xsus02)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌机场，稳定性很好，什么套餐都有，推荐不想折腾的用户</br>
-✅[测评]()
+✅[测评](https://github.com/jdnei/xsus)
 
 ---
 
