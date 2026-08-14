@@ -166,7 +166,7 @@
 ---
 
 ### 03. 良心云机场
-最新官网地址：[良心云.com](https://to.iix.im/lx01)</br>
+最新官网地址：[良心云.com](https://to.iix.im/lx01)（ 中国大陆无法访问 ）</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：最近GFW封的厉害，他家很强，提供0.01倍长期下载专属节点</br>
 ✅[测评](https://github.com/jdnei/liangxin)</br>
