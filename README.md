@@ -147,6 +147,15 @@
 ✅[测评](https://github.com/jdnei/ssrdog)
 
 
+---
+
+### 09. 98K机场
+官网最新地址：[98kjc.top](https://to.iix.im/98k10)</br>
+✅周期性套餐丨✅不限时套餐丨❌家宽丨✅专线</br>
+优势：提供专线，老牌机场，运营多年</br>
+✅[测评](https://github.com/jdnei/98k)
+
+
 <a id="value"></a>
 ## 💰 性价比系列
 ### 01. 魔戒机场
