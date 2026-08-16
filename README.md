@@ -134,7 +134,7 @@
 
 ### 07. V2PAW机场
 官网最新地址：[dash.v2paw.com](https://to.iix.im/v201)</br>
-✅周期性套餐丨❌不限时套餐丨❌家宽</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌机场，翻翻强FFQ论坛极力推荐</br>
 ✅[测评](https://github.com/jdnei/v2paw)
 
