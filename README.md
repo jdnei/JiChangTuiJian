@@ -12,7 +12,13 @@
   <img src="https://img.shields.io/github/license/jdnei/JiChangTuiJian?style=flat-square" alt="license">
 </p>
 
+<p align="center">
+  <a href="#purchasing">购前注意</a> ·
+  <a href="#tg">TG群组</a> ·
+  <a href="#contrast">机场推荐</a> ·
+</p>
 
+<a id="purchasing"></a>
 
 > 💡 **购买前请先看**
 >
@@ -42,7 +48,7 @@
 </details>
 
 
-
+<a id="tg"></a>
 ## Telegram VPN 机场福利社 #AD
 [机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
 
