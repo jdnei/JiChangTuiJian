@@ -1,4 +1,4 @@
-
+[![JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian/blob/main/JiChangTuiJian/198347234589logo.png?raw=ture)](https://to.iix.im/vpn)
 
 
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
@@ -16,7 +16,7 @@
   <a href="#purchasing">购买前请先看</a> ·
   <a href="#tg">TG群组</a> ·
   <a href="#contrast">机场推荐</a> ·
-  <a href="#client">客户端推荐</a> ·
+  <a href="#client">客户端推荐</a> 
 </p>
 
 <a id="purchasing"></a>
