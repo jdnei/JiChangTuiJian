@@ -17,7 +17,7 @@
 <p align="center">
   <a href="#purchasing">购买前请先看</a> ·
   <a href="#tg">TG群组</a> ·
-  <a href="#contrast">机场推荐</a> ·
+  <a href="#contrast">机场对比</a> ·
   <a href="#client">客户端推荐</a> 
 </p>
 
