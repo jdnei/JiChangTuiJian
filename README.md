@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/license/jdnei/JiChangTuiJian?style=flat-square" alt="license">
 </p>
 
-> 💡 **购买前请先看**
+> 💡 **购买前请先看[机场系列对比](#contrast)**
 >
 > * 建议先购买月付或短周期套餐，避免一次性购买过长周期。
 > * 不要单纯看价格和节点数量，**带宽、稳定性和线路质量**更重要。
@@ -46,6 +46,7 @@
 
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 
+<a id="contrast"></a>
 ## 2026年10大稳定好用的机场推荐节点分享
 
 > [!NOTE] 
