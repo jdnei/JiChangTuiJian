@@ -1,3 +1,6 @@
+
+
+
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
@@ -9,61 +12,33 @@
   <img src="https://img.shields.io/github/license/jdnei/JiChangTuiJian?style=flat-square" alt="license">
 </p>
 
-## 写在前面
-2026最新好用的机场推荐与节点分享给大家，最新机场推荐与机场评测，包含了机场最新官网地址、优惠价格套餐、机场简介等。
+> 💡 **购买前请先看**
+>
+> * 建议先购买月付或短周期套餐，避免一次性购买过长周期。
+> * 不要单纯看价格和节点数量，**带宽、稳定性和线路质量**更重要。
+> * 中转/专线通常优于普通直连，但最终体验仍取决于自己的地区和运营商。
+> * 经常使用的话，**一定要准备备用机场**，不要把所有需求押在一个机场上。
 
-## 选购机场必读
 <details>
-<summary><strong>点击展开阅读</strong></summary>
+<summary><b>▶ 点击展开完整选购指南</b></summary>
 
-- 相比较来说直连机场更加推荐购买中转机场。中转机场带宽大，专线主要是不过墙延迟低，专线机场在日常使用过程中会更丝滑更舒服。机场比的是钞能力啦，速度需要看机场的总的带宽大小。稳定呢要看机场大佬的资源质量，主要是看机场主的上游的线路质量，解锁看的是机场主的落地/解锁商是否优秀。机场带宽大和稳定性最重要。
-- 对于中转机场而言，显然协议不是最重要的，中转机子的稳定性和带宽大小才是。
-- 备用备用特别重要，如果经常需要科学上网，那么就不能只有一个机场，必须多买几个备用机场。
-  
+<br>
+
+* **直连、中转和专线怎么选？**
+  一般来说，相比普通直连，我更推荐中转机场。中转机场通常带宽更充足；专线的优势主要是不过墙、延迟更低，日常使用会更加丝滑。不过不要只看“专线”“中转”这些标签，实际线路质量才是关键。
+
+* **判断一个机场好不好，重点看什么？**
+  机场说到底还是比较资源实力。速度主要看总带宽，稳定性主要看上游线路和中转资源质量，流媒体解锁则取决于落地节点和解锁商。综合来看，**带宽和稳定性最重要**。
+
+* **协议需要特别纠结吗？**
+  对于中转机场来说，协议通常不是最重要的。相比使用什么协议，中转机器本身是否稳定、带宽是否充足，对实际体验的影响往往更大。
+
+* **为什么排名不能完全照着买？**
+  不同地区、不同运营商甚至不同时段，实际体验都可能存在差异。建议先购买短周期套餐实际测试，适合自己的才是最好的。
+
 </details>
 
-## 客户端推荐
-<details>
-<summary><strong>点击展开客户端列表</strong></summary> 
 
-| 客户端                 | Windows |  <img width=5/>macOS<img width=5/>  |  <img width=11/>Linux<img width=11/>  |   <img width=19/>iOS<img width=19/>   | <img width=3/>Android<img width=3/> | <img width=7/>路由器<img width=7/> |
-|------------------------|---------|-------|-------|-----|---------|-----|
-| [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=jichangtuijian)      |         |       |       |     | ✔       |     |
-| [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangtuijian)      | ✔       | ✔     | ✔     |     |         |     |
-| [Clash Meta For Android](https://clashmetaforandroid.org/?utm_source=github&utm_medium=jichangtuijian) |         |       |       |     | ✔       |     |
-| [Clash Mi](https://clash-mi.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     | ✔       | ✔   | ✔       |     |
-| [Clash Nyanpasu](https://clashnyanpasu.org/?utm_source=github&utm_medium=jichangtuijian)         | ✔       | ✔     | ✔     |     |         |     |
-| [Clash Party](https://clash-party.org/?utm_source=github&utm_medium=jichangtuijian)            | ✔       | ✔     | ✔     |     |         |     |
-| [Clash Verge](https://clashverge.org/?utm_source=github&utm_medium=jichangtuijian)            | ✔       | ✔     | ✔     |     |         |     |
-| [Clash Verge Rev](https://clashvergerev.org/?utm_source=github&utm_medium=jichangtuijian)        | ✔       | ✔     | ✔     |     |         |     |
-| [ClashN](https://getclashn.org/?utm_source=github&utm_medium=jichangtuijian)                 | ✔       |       |       |     |         |     |
-| [ClashX](https://clashx.org/?utm_source=github&utm_medium=jichangtuijian)                 |         | ✔     |       |     |         |     |
-| [ClashX Meta](https://clashxmeta.org/?utm_source=github&utm_medium=jichangtuijian)            |         | ✔     |       |     |         |     |
-| [ClashX Pro](https://clashxpro.org/?utm_source=github&utm_medium=jichangtuijian)             |         | ✔     |       |     |         |     |
-| [FlClash](https://getflclash.org/?utm_source=github&utm_medium=jichangtuijian)                | ✔       | ✔     | ✔     |     | ✔       |     |
-| [Hiddify](https://gethiddify.org/?utm_source=github&utm_medium=jichangtuijian)           | ✔       | ✔     | ✔     | ✔   | ✔       |     |
-| [Mihomo Party](https://mihomo-party.org/?utm_source=github&utm_medium=jichangtuijian)           | ✔       | ✔     | ✔     |     |         |     |
-| [NekoBox for Android](https://nekoboxforandroid.org/?utm_source=github&utm_medium=jichangtuijian)    |         |       |       |     | ✔       |     |
-| [NekoRay](https://nekoray.org/?utm_source=github&utm_medium=jichangtuijian)                | ✔       |       | ✔     |     |         |     |
-| [OpenClash](https://openclash.org/?utm_source=github&utm_medium=jichangtuijian)              |         |       |       |     |         | ✔   |
-| [PassWall2](https://passwall2.org/?utm_source=github&utm_medium=jichangtuijian)              |         |       |       |     |         | ✔   |
-| [Potatso Lite](https://potatso.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       | ✔   |         |     |
-| [Karing](https://getkaring.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     | ✔       | ✔   | ✔       |     |
-| [Loon](https://getloon.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       | ✔   |         |     |
-| [Quantumult](https://quantumult.org/?utm_source=github&utm_medium=jichangtuijian)             |         |       |       | ✔   |         |     |
-| [Quantumult X](https://quantumultx.org/?utm_source=github&utm_medium=jichangtuijian)           |         | ✔     |       | ✔   |         |     |
-| [Shadowrocket](https://shadowrocketios.org/?utm_source=github&utm_medium=jichangtuijian)           |         | ✔       |       | ✔   |         |     |
-| [ShadowsocksR Plus+](https://ssrplus.org/?utm_source=github&utm_medium=jichangtuijian)     |         |       |       |     |         | ✔   |
-| [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     | ✔     | ✔   | ✔       |     |
-| [Stash](https://getstash.org/?utm_source=github&utm_medium=jichangtuijian)                  |         | ✔     |       | ✔   |         |     |
-| [Surfboard](https://getsurfboard.org/?utm_source=github&utm_medium=jichangtuijian)              |         |       |       |     | ✔       |     |
-| [Surge](https://nssurge.org/?utm_source=github&utm_medium=jichangtuijian)              |         | ✔     |       | ✔   |         |     |
-| [v2rayN](https://v2rayn.org/?utm_source=github&utm_medium=jichangtuijian)                 | ✔       | ✔       | ✔       |     |         |     |
-| [v2rayNG](https://v2rayng.org/?utm_source=github&utm_medium=jichangtuijian)                |         |       |       |     | ✔       |     |
-| [V2rayU](https://v2rayu.org/?utm_source=github&utm_medium=jichangtuijian)                 |         | ✔     |       |     |         |     |
-| [WinXray](https://winxray.org/?utm_source=github&utm_medium=jichangtuijian)                | ✔       |       |       |     |         |     |
-
-</details>
 
 ## Telegram VPN 机场福利社 #AD
 [机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
@@ -72,11 +47,8 @@
 
 ## 2026年10大稳定好用的机场推荐节点分享
 
-> 💡 **阅读提示：** 任何机场都有随时跑路的可能，怕跑路用月付，图便宜用年付，但风险自担。
-
-
 > [!NOTE] 
-> **点击**下方分类标题可**快速跳转**至对应推荐。本文推荐排名不分先后，星级评分基于个人使用体验，仅供参考。
+> **点击**下方分类标题可**快速跳转**至对应推荐。本文推荐排名不分先后，星级评分基于个人使用体验，仅供参考。[▶ 客户端推荐](#client)
 
 | 🔽 | 🔽 | 🔽 | 🔽 |
 | --- | --- | --- | --- |
@@ -362,3 +334,48 @@
 优势：只能客户端了，不会用FQ软件的推荐</br>
 ✅[测评](https://github.com/jdnei/xingdaomeng)</br>
 
+---
+
+<a id="client"></a>
+## 客户端推荐
+<details>
+<summary><strong>点击展开客户端列表</strong></summary> 
+
+| 客户端                 | Windows |  <img width=5/>macOS<img width=5/>  |  <img width=11/>Linux<img width=11/>  |   <img width=19/>iOS<img width=19/>   | <img width=3/>Android<img width=3/> | <img width=7/>路由器<img width=7/> |
+|------------------------|---------|-------|-------|-----|---------|-----|
+| [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=jichangtuijian)      |         |       |       |     | ✔       |     |
+| [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangtuijian)      | ✔       | ✔     | ✔     |     |         |     |
+| [Clash Meta For Android](https://clashmetaforandroid.org/?utm_source=github&utm_medium=jichangtuijian) |         |       |       |     | ✔       |     |
+| [Clash Mi](https://clash-mi.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     | ✔       | ✔   | ✔       |     |
+| [Clash Nyanpasu](https://clashnyanpasu.org/?utm_source=github&utm_medium=jichangtuijian)         | ✔       | ✔     | ✔     |     |         |     |
+| [Clash Party](https://clash-party.org/?utm_source=github&utm_medium=jichangtuijian)            | ✔       | ✔     | ✔     |     |         |     |
+| [Clash Verge](https://clashverge.org/?utm_source=github&utm_medium=jichangtuijian)            | ✔       | ✔     | ✔     |     |         |     |
+| [Clash Verge Rev](https://clashvergerev.org/?utm_source=github&utm_medium=jichangtuijian)        | ✔       | ✔     | ✔     |     |         |     |
+| [ClashN](https://getclashn.org/?utm_source=github&utm_medium=jichangtuijian)                 | ✔       |       |       |     |         |     |
+| [ClashX](https://clashx.org/?utm_source=github&utm_medium=jichangtuijian)                 |         | ✔     |       |     |         |     |
+| [ClashX Meta](https://clashxmeta.org/?utm_source=github&utm_medium=jichangtuijian)            |         | ✔     |       |     |         |     |
+| [ClashX Pro](https://clashxpro.org/?utm_source=github&utm_medium=jichangtuijian)             |         | ✔     |       |     |         |     |
+| [FlClash](https://getflclash.org/?utm_source=github&utm_medium=jichangtuijian)                | ✔       | ✔     | ✔     |     | ✔       |     |
+| [Hiddify](https://gethiddify.org/?utm_source=github&utm_medium=jichangtuijian)           | ✔       | ✔     | ✔     | ✔   | ✔       |     |
+| [Mihomo Party](https://mihomo-party.org/?utm_source=github&utm_medium=jichangtuijian)           | ✔       | ✔     | ✔     |     |         |     |
+| [NekoBox for Android](https://nekoboxforandroid.org/?utm_source=github&utm_medium=jichangtuijian)    |         |       |       |     | ✔       |     |
+| [NekoRay](https://nekoray.org/?utm_source=github&utm_medium=jichangtuijian)                | ✔       |       | ✔     |     |         |     |
+| [OpenClash](https://openclash.org/?utm_source=github&utm_medium=jichangtuijian)              |         |       |       |     |         | ✔   |
+| [PassWall2](https://passwall2.org/?utm_source=github&utm_medium=jichangtuijian)              |         |       |       |     |         | ✔   |
+| [Potatso Lite](https://potatso.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       | ✔   |         |     |
+| [Karing](https://getkaring.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     | ✔       | ✔   | ✔       |     |
+| [Loon](https://getloon.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       | ✔   |         |     |
+| [Quantumult](https://quantumult.org/?utm_source=github&utm_medium=jichangtuijian)             |         |       |       | ✔   |         |     |
+| [Quantumult X](https://quantumultx.org/?utm_source=github&utm_medium=jichangtuijian)           |         | ✔     |       | ✔   |         |     |
+| [Shadowrocket](https://shadowrocketios.org/?utm_source=github&utm_medium=jichangtuijian)           |         | ✔       |       | ✔   |         |     |
+| [ShadowsocksR Plus+](https://ssrplus.org/?utm_source=github&utm_medium=jichangtuijian)     |         |       |       |     |         | ✔   |
+| [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     | ✔     | ✔   | ✔       |     |
+| [Stash](https://getstash.org/?utm_source=github&utm_medium=jichangtuijian)                  |         | ✔     |       | ✔   |         |     |
+| [Surfboard](https://getsurfboard.org/?utm_source=github&utm_medium=jichangtuijian)              |         |       |       |     | ✔       |     |
+| [Surge](https://nssurge.org/?utm_source=github&utm_medium=jichangtuijian)              |         | ✔     |       | ✔   |         |     |
+| [v2rayN](https://v2rayn.org/?utm_source=github&utm_medium=jichangtuijian)                 | ✔       | ✔       | ✔       |     |         |     |
+| [v2rayNG](https://v2rayng.org/?utm_source=github&utm_medium=jichangtuijian)                |         |       |       |     | ✔       |     |
+| [V2rayU](https://v2rayu.org/?utm_source=github&utm_medium=jichangtuijian)                 |         | ✔     |       |     |         |     |
+| [WinXray](https://winxray.org/?utm_source=github&utm_medium=jichangtuijian)                | ✔       |       |       |     |         |     |
+
+</details>
