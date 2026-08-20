@@ -265,7 +265,7 @@
 ---
 
 ### 07. 奶昔机场
-官网最新地址：[nxonearth.com](https://nxonearth.com/signupbyemail.aspx?MemberCode=71c53b664dfa4413b7b34ffd5cd11f5820230223165339)</br>
+官网最新地址：[nxonearth.com](https://to.iix.im/nx01)（关闭代理软件访问）</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌专线，和花云一样，技术强，信得过，不差钱直接上</br>
 ✅[测评](https://github.com/jdnei/naixi)</br>
