@@ -304,7 +304,7 @@
 ---
 
 ### 05. NIVA Network机场
-官网最新地址：[app.mizuku.net](https://to.iix.im/niva01)</br>
+官网最新地址：[app.mizuku.net](https://to.iix.im/niva02)</br>
 ✅周期性套餐丨✅不限时套餐丨✅家宽</br>
 优势：用的不多，又有部分家宽需求，带SpaceX星链节点</br>
 ✅[测评](https://github.com/jdnei/niva)
