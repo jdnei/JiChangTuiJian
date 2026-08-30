@@ -183,7 +183,7 @@
 ---
 
 ### 06. SKYLUMO机场
-官网最新地址：[skylumo.cc](https://to.iix.im/sky02)</br>
+官网最新地址：[skylumo.cc](https://to.iix.im/sky03)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：别选月付，直接选49元一年</br>
 ✅[测评](https://github.com/jdnei/SKYLUMO)
