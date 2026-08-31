@@ -73,7 +73,10 @@
 <a id="standard"></a>
 ## 📦 普通系列
 ### 01. NiceCloud机场
-官网最新地址：[nicecloud.me](https://to.iix.im/nc02)（关闭代理软件访问）</br>
+官网最新地址：[nicecloud.me](https://to.iix.im/nc02)<!-- NiceCloud / Monitor ID 17 / HTTP / 绿色 -->
+<img src="https://dot.331024.xyz/dot/17.svg?type=http" width="10" height="10" alt="status">
+</br>
+
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：耐思云机场采用IEPL专线及优质中转节点，负载表现稳定的老牌VPN机场</br>
 ✅[测评](https://github.com/jdnei/nicecloud)</br>
@@ -81,7 +84,7 @@
 ---
 
 ### 02. 狗狗加速机场
-官网最新地址：[狗狗加速.com](https://to.iix.im/gg01) </br>
+官网最新地址：[狗狗加速.com](https://to.iix.im/gg01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽</br>
 优势：速度中规中矩，图个省心，老牌子机场算便宜的</br>
 ✅[测评](https://github.com/jdnei/gougou)</br>
