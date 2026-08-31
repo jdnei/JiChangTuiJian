@@ -227,7 +227,7 @@
 
 ### 03. TAG专线机场
 官网最新地址：[tagss.pro](https://to.iix.im/tag03)</br>
-✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
+✅周期性套餐丨❌不限时套餐丨✅家宽丨✅专线</br>
 优势：有专线，有冷门节点，不喜欢花云奶昔的plan B</br>
 ✅[测评](https://github.com/jdnei/TAG)
 
