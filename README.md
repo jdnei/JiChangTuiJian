@@ -4,7 +4,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# 2026最新好用的机场推荐与节点分享(2026年8月30日更新)
+# 2026最新好用的机场推荐与节点分享(2026年8月31日更新)
 <p align="center">
   <img src="https://img.shields.io/github/stars/jdnei/JiChangTuiJian?style=flat-square" alt="stars">
   <img src="https://img.shields.io/github/forks/jdnei/JiChangTuiJian?style=flat-square" alt="forks">
