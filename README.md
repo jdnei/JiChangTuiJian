@@ -120,7 +120,9 @@
 ---
 
 ### 05. CTC机场
-官网最新地址：[www.ctc.run](https://to.iix.im/ctc03)</br>
+官网最新地址：[www.ctc.run](https://to.iix.im/ctc03)<!-- ctc / Monitor ID 41 / TCP 443 / 黄色 -->
+<img src="https://dot.331024.xyz/dot/41.svg?type=cf" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌机场了，有专线，缺点贵</br>
 ✅[测评](https://github.com/jdnei/ctc)
@@ -330,7 +332,7 @@
 ---
 
 ### 02. KittyNetwork机场
-官网最新地址：[kitty.fo](https://to.iix.im/kn01)（中国大陆无法访问）</br>
+官网最新地址：[kitty.fo](https://to.iix.im/kn01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅新疆可用丨✅不限速丨✅不限设备数</br>
 优势：提供中国新疆地区可用的节点</br>
 ✅[测评](https://github.com/jdnei/kitty)
@@ -338,7 +340,7 @@
 ---
 
 ### 03. m78星云机场
-官网最新地址：[www.m78.pro](https://to.iix.im/xy03)（ 中国大陆无法访问 ）</br>
+官网最新地址：[www.m78.pro](https://to.iix.im/xy03)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽丨✅Emby服务</br>
 优势：提供正常节点外，可以同时开通Emby观影账号，爱看电影的首选，省一大笔</br>
 ✅[测评](https://github.com/jdnei/m78)</br>
@@ -363,7 +365,7 @@
 ---
 
 ### 06. NianYun念云机场
-官网最新地址：[xnyun.wiki](https://to.iix.im/xny01)（中国大陆无法访问）</br>
+官网最新地址：[xnyun.wiki](https://to.iix.im/xny01)</br>
 ✅周期性套餐丨✅不限时套餐丨✅家宽丨✅专线丨✅Emby服务</br>
 优势：对线路总体要求不高，但平时有各地家宽需求的用户，可做备选</br>
 ✅[测评](https://github.com/jdnei/nianyun)
