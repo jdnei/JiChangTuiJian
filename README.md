@@ -87,7 +87,9 @@
 ---
 
 ### 02. 狗狗加速机场
-官网最新地址：[狗狗加速.com](https://to.iix.im/gg01)</br>
+官网最新地址：[狗狗加速.com](https://to.iix.im/gg01)<!-- gougou / Monitor ID 18 / HTTP / 绿色 -->
+<img src="https://dot.331024.xyz/dot/18.svg?type=http" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽</br>
 优势：速度中规中矩，图个省心，老牌子机场算便宜的</br>
 ✅[测评](https://github.com/jdnei/gougou)</br>
@@ -97,7 +99,9 @@
 ### 03. 奈云机场
 `6.30失联。7.1新官网上线，海外团队接管。7.5博主年付套餐已恢复。`</br>
 账号套餐恢复教程：[recovery](https://github.com/jdnei/naiyun#recovery)</br>
-最新官网地址：[naiun.space](https://to.iix.im/ny03)</br>
+最新官网地址：[naiun.space](https://to.iix.im/ny03)<!-- naiyun / Monitor ID 20 / HTTP / 绿色 -->
+<img src="https://dot.331024.xyz/dot/20.svg?type=http" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：提供58+节点，带很多冷门地区，尼日利亚，土耳其等等不太常用且实用的节点。还带~~5条家宽~~！</br>
 ✅[测评](https://github.com/jdnei/naiyun)</br>
@@ -106,7 +110,9 @@
 ---
 
 ### 04. XSUS十八线小机场
-官网最新地址：[xsus.cloud](https://to.iix.im/xsus02)</br>
+官网最新地址：[xsus.cloud](https://to.iix.im/xsus02)<!-- xsus / Monitor ID 19 / HTTP / 绿色 -->
+<img src="https://dot.331024.xyz/dot/19.svg?type=http" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌机场，稳定性很好，什么套餐都有，推荐不想折腾的用户</br>
 ✅[测评](https://github.com/jdnei/xsus)
@@ -122,7 +128,9 @@
 ---
 
 ### 06. 速鹰666机场
-官网最新地址：[suying91.xyz](https://to.iix.im/sy03)</br>
+官网最新地址：[suying91.xyz](https://to.iix.im/sy03)<!-- suying666 / Monitor ID 21 / HTTP / 绿色 -->
+<img src="https://dot.331024.xyz/dot/21.svg?type=http" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽</br>
 优势：中规中矩的老牌机场，应该都听说过</br>
 ✅[测评](https://github.com/jdnei/suying666)
@@ -132,7 +140,9 @@
 
 
 ### 07. SSRdog机场
-官网最新地址：[dog.ssrdog.com](https://to.iix.im/dog01)</br>
+官网最新地址：[dog.ssrdog.com](https://to.iix.im/dog01)<!-- ssrdog / Monitor ID 22 / HTTP / 绿色 -->
+<img src="https://dot.331024.xyz/dot/22.svg?type=http" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌机场了，有专线，缺点贵</br>
 ✅[测评](https://github.com/jdnei/ssrdog)
@@ -141,7 +151,9 @@
 ---
 
 ### 08. 98K机场
-官网最新地址：[98kjc.top](https://to.iix.im/98k10)</br>
+官网最新地址：[98kjc.top](https://to.iix.im/98k10)<!-- 98k / Monitor ID 23 / HTTP / 绿色 -->
+<img src="https://dot.331024.xyz/dot/23.svg?type=http" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽丨✅专线</br>
 优势：提供专线，老牌机场，运营多年，在花频道和v2rayNG力荐</br>
 ✅[测评](https://github.com/jdnei/98k)
@@ -150,7 +162,9 @@
 <a id="value"></a>
 ## 💰 性价比系列
 ### 01. 魔戒机场
-最新官网地址：[mojie.co](https://to.iix.im/mj10)</br>
+最新官网地址：[mojie.co](https://to.iix.im/mj10)<!-- mojie / Monitor ID 24 / HTTP / 绿色 -->
+<img src="https://dot.331024.xyz/dot/24.svg?type=http" width="10" height="10" alt="status">
+</br>
 ❌周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：提供不限时套餐，可1元购买。备用机场之王。</br>
 ✅[测评](https://github.com/jdnei/mojie)</br>
@@ -158,7 +172,9 @@
 ---
 
 ### 02. 八戒机场
-最新官网地址：[bajie.la](https://to.iix.im/bj01)</br>
+最新官网地址：[bajie.la](https://to.iix.im/bj01)<!-- bajie / Monitor ID 25 / HTTP / 绿色 -->
+<img src="https://dot.331024.xyz/dot/25.svg?type=http" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：可1元购买，备用机场，和魔戒对标，还提供周期性套餐。</br>
 ✅[测评](https://github.com/jdnei/bajie)</br>
@@ -166,14 +182,18 @@
 ---
 
 ### 03. 良心云机场
-最新官网地址：[良心云.com](https://to.iix.im/lx01)（ 中国大陆无法访问 ）</br>
+最新官网地址：[良心云.com](https://to.iix.im/lx01)<!-- liangxin / Monitor ID 26 / TCP 443 / 黄色 -->
+<img src="https://dot.331024.xyz/dot/26.svg?type=cf" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：最近GFW封的厉害，他家很强，提供0.01倍长期下载专属节点</br>
 ✅[测评](https://github.com/jdnei/liangxin)</br>
 
 ---
 ### 04. 吹雪云机场
-官网最新地址：[吹雪云.com](https://xn--9kqs1lo79d.com/#/register?code=RRAhwArP)</br>
+官网最新地址：[吹雪云.com](https://xn--9kqs1lo79d.com/#/register?code=RRAhwArP)<!-- chuixuecloud / Monitor ID 27 / TCP 443 / 黄色 -->
+<img src="https://dot.331024.xyz/dot/27.svg?type=cf" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：良心云的竞争对手，主打便宜大碗，月付不怕跑路</br>
 ✅[测评](https://github.com/jdnei/chuixuecloud)</br>
@@ -181,7 +201,9 @@
 ---
 
 ### 05. Mitce机场
-最新官网地址：[mitce.io](https://to.iix.im/mt01)</br>
+最新官网地址：[mitce.io](https://to.iix.im/mt01)<!-- mitce / Monitor ID 28 / HTTP / 绿色 -->
+<img src="https://dot.331024.xyz/dot/28.svg?type=http" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨❌不限时套餐丨✅家宽丨✅无限流量</br>
 优势：包括常用的节点，还另外提供香港HK的家宽节点，带无限流量的套餐，有需求的可以订阅。</br>
 ✅[测评](https://github.com/jdnei/mitce)</br>
@@ -189,7 +211,9 @@
 ---
 
 ### 06. SKYLUMO机场
-官网最新地址：[skylumo.cc](https://to.iix.im/sky03)</br>
+官网最新地址：[skylumo.cc](https://to.iix.im/sky03)<!-- skylumo / Monitor ID 29 / HTTP / 绿色 -->
+<img src="https://dot.331024.xyz/dot/29.svg?type=http" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：别选月付，直接选49元一年</br>
 ✅[测评](https://github.com/jdnei/SKYLUMO)
@@ -197,7 +221,9 @@
 ---
 
 ### 07.一分机场
-官网最新地址：[一分机场.com](https://to.iix.im/yf01)</br>
+官网最新地址：[一分机场.com](https://to.iix.im/yf01)<!-- yifen / Monitor ID 30 / TCP 443 / 黄色 -->
+<img src="https://dot.331024.xyz/dot/30.svg?type=cf" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽</br>
 优势：入门性价比，便宜，对质量要求不高的可以选</br>
 ✅[测评](https://github.com/jdnei/yifen)</br>
@@ -205,7 +231,9 @@
 ---
 
 ### 08. 赔钱机场
-官网最新地址：[赔钱机场.com](https://to.iix.im/pq01)</br>
+官网最新地址：[赔钱机场.com](https://to.iix.im/pq01)<!-- peiqian / Monitor ID 31 / TCP 443 / 黄色 -->
+<img src="https://dot.331024.xyz/dot/31.svg?type=cf" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽</br>
 优势：入门性价比，便宜，对质量要求不高的可以选</br>
 ✅[测评](https://github.com/jdnei/peiqianjichang)</br>
@@ -215,7 +243,9 @@
 ## 🚀 专线系列
 
 ### 01. byg白月光专线机场
-官网最新地址：[bygcloud.com](https://to.iix.im/byg01)</br>
+官网最新地址：[bygcloud.com](https://to.iix.im/byg01)<!-- byd / Monitor ID 32 / HTTP / 绿色 -->
+<img src="https://dot.331024.xyz/dot/32.svg?type=http" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：用的人少，比花云便宜，老牌机场，稳定</br>
 ✅[测评](https://github.com/jdnei/bygcloud)
@@ -223,7 +253,9 @@
 ---
 
 ### 02. WgetCloud专线机场
-官网最新地址：[wgetcloud.ltd](https://to.iix.im/wc02)（ 中国大陆无法访问 ）</br>
+官网最新地址：[wgetcloud.ltd](https://to.iix.im/wc02)<!-- wget / Monitor ID 33 / HTTP / 绿色 -->
+<img src="https://dot.331024.xyz/dot/33.svg?type=http" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌有专线的机场，缺点贵，优点稳定</br>
 ✅[测评](https://github.com/jdnei/WgetCloud)
@@ -232,7 +264,9 @@
 ---
 
 ### 03. TAG专线机场
-官网最新地址：[tagss.pro](https://to.iix.im/tag03)</br>
+官网最新地址：[tagss.pro](https://to.iix.im/tag03)<!-- tag / Monitor ID 34 / TCP 443 / 黄色 -->
+<img src="https://dot.331024.xyz/dot/34.svg?type=cf" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨❌不限时套餐丨✅家宽丨✅专线</br>
 优势：有专线，有冷门节点，不喜欢花云奶昔的plan B</br>
 ✅[测评](https://github.com/jdnei/TAG)
@@ -241,7 +275,9 @@
 
 
 ### 04. 绿叶云专线机场
-官网最新地址：[linkcube.org](https://to.iix.im/ly02)</br>
+官网最新地址：[linkcube.org](https://to.iix.im/ly02)<!-- lvye / Monitor ID 35 / TCP 443 / 黄色 -->
+<img src="https://dot.331024.xyz/dot/35.svg?type=cf" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：用稍微便宜的价格，体验专线，三个套餐清晰无套路</br>
 ✅[测评](https://github.com/jdnei/linkcube)
@@ -251,7 +287,9 @@
 
 
 ### 05. 花云机场
-官网最新地址：[flowercloud.net](https://to.iix.im/fc01)</br>
+官网最新地址：[flowercloud.net](https://to.iix.im/fc01)<!-- huayun / Monitor ID 36 / TCP 443 / 黄色 -->
+<img src="https://dot.331024.xyz/dot/36.svg?type=cf" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌专线，和奶昔一样，技术强，不跑路,不差钱直接上</br>
 ✅[测评](https://github.com/jdnei/FlowerCloud)</br>
@@ -259,7 +297,9 @@
 ---
 
 ### 06. 奶昔机场
-官网最新地址：[nxonearth.com](https://to.iix.im/nx01)（关闭代理软件访问）</br>
+官网最新地址：[nxonearth.com](https://to.iix.im/nx01)<!-- naixi / Monitor ID 37 / TCP 443 / 黄色 -->
+<img src="https://dot.331024.xyz/dot/37.svg?type=cf" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌专线，和花云一样，技术强，信得过，不差钱直接上</br>
 ✅[测评](https://github.com/jdnei/naixi)</br>
@@ -267,7 +307,9 @@
 ---
 
 ### 07. V2PAW机场
-官网最新地址：[dash.v2paw.com](https://to.iix.im/v201)</br>
+官网最新地址：[dash.v2paw.com](https://to.iix.im/v201)<!-- v2paw / Monitor ID 38 / HTTP / 绿色 -->
+<img src="https://dot.331024.xyz/dot/38.svg?type=http" width="10" height="10" alt="status">
+</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌专线机场，测速频道、翻翻强FFQ论坛极力推荐</br>
 ✅[测评](https://github.com/jdnei/v2paw)
