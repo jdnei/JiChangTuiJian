@@ -97,8 +97,6 @@
 ---
 
 ### 03. 奈云机场
-`6.30失联。7.1新官网上线，海外团队接管。7.5博主年付套餐已恢复。`</br>
-账号套餐恢复教程：[recovery](https://github.com/jdnei/naiyun#recovery)</br>
 最新官网地址：[naiun.space](https://to.iix.im/ny10)<!-- naiyun / Monitor ID 20 / HTTP / 绿色 -->
 <img src="https://dot.331024.xyz/dot/20.svg?type=http" width="10" height="10" alt="status">
 </br>
