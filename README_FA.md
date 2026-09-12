@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# معرفی بهترین سرویس‌های VPN و اشتراک نود در سال 2026 (به‌روزرسانی 11 سپتامبر 2026)
+# معرفی بهترین سرویس‌های VPN و اشتراک نود در سال 2026 (به‌روزرسانی 12 سپتامبر 2026)
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/jdnei/JiChangTuiJian?style=flat-square" alt="stars">
