@@ -96,13 +96,14 @@
 
 ---
 
-### 03. 奈云机场
-最新官网地址：[naiun.space](https://to.iix.im/ny10)<!-- naiyun / Monitor ID 20 / HTTP / 绿色 -->
+### 03. Guga云咕嘎云机场（奈云机场）
+`品牌升级`
+最新官网地址：[naiun.space](https://to.iix.im/gu01)<!-- naiyun / Monitor ID 20 / HTTP / 绿色 -->
 <img src="https://dot.331024.xyz/dot/20.svg?type=http" width="10" height="10" alt="status">
 </br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：提供58+节点，带很多冷门地区，尼日利亚，土耳其等等不太常用且实用的节点。还带~~5条家宽~~！</br>
-✅[测评](https://github.com/jdnei/naiyun)</br>
+✅[测评](https://github.com/jdnei/guga)</br>
 
 
 ---
