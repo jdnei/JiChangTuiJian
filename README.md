@@ -97,8 +97,8 @@
 ---
 
 ### 03. Guga云咕嘎云机场（奈云机场）
-`品牌升级`
-最新官网地址：[naiun.space](https://to.iix.im/gu01)<!-- naiyun / Monitor ID 20 / HTTP / 绿色 -->
+`品牌升级`</br>
+最新官网地址：[https://user.gugayun.com/](https://to.iix.im/gu01)<!-- naiyun / Monitor ID 20 / HTTP / 绿色 -->
 <img src="https://dot.331024.xyz/dot/20.svg?type=http" width="10" height="10" alt="status">
 </br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
