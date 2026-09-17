@@ -295,12 +295,12 @@
 ---
 
 ### 05. LanYun博纳蓝云专线机场
-官网最新地址：[china.69yun69.net](https://to.iix.im/6903)<!-- lanyun / Monitor ID 47 / HTTP / 绿色 -->
+官网最新地址：[https://lanyun.org](https://to.iix.im/lan01)<!-- lanyun / Monitor ID 47 / HTTP / 绿色 -->
 <img src="https://dot.331024.xyz/dot/47.svg?type=http" width="10" height="10" alt="status">
 </br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌的小众专线机场，以前做企业端，价格较贵</br>
-✅[测评](https://github.com/jdnei/69yun)
+✅[测评](https://github.com/jdnei/lanyun)
 
 ---
 
