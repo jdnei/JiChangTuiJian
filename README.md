@@ -96,7 +96,7 @@
 
 ---
 
-### 03. Guga云咕嘎云机场（奈云机场）
+### 03. Guga云 咕嘎云机场（奈云机场）
 `品牌升级`</br>
 最新官网地址：[guga.cloud](https://to.iix.im/gu01)<!-- naiyun / Monitor ID 20 / HTTP / 绿色 -->
 <img src="https://dot.331024.xyz/dot/20.svg?type=http" width="10" height="10" alt="status">
