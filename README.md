@@ -231,7 +231,7 @@
 
 ---
 
-### 08.一分机场
+### 08. 一分机场
 官网最新地址：[一分机场.com](https://to.iix.im/yf01)<!-- yifen / Monitor ID 30 / TCP 443 / 黄色 -->
 <img src="https://dot.331024.xyz/dot/30.svg?type=cf" width="10" height="10" alt="status">
 </br>
@@ -284,7 +284,7 @@
 
 ---
 
-### 04. 肯の基专线机场
+### 04. KenDeJi肯の基专线机场
 官网最新地址：[kendeji.io](https://to.iix.im/kdj01)<!-- kendeji / Monitor ID 46 / HTTP / 绿色 -->
 <img src="https://dot.331024.xyz/dot/46.svg?type=http" width="10" height="10" alt="status">
 </br>
