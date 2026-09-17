@@ -284,12 +284,22 @@
 
 ---
 
+### 04. 肯の基专线机场
+官网最新地址：[kendeji.io](https://to.iix.im/kdj01)<!-- kendeji / Monitor ID 46 / HTTP / 绿色 -->
+<img src="https://dot.331024.xyz/dot/46.svg?type=http" width="10" height="10" alt="status">
+</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
+优势：新开的专线机场，价格适中，真专线</br>
+✅[测评](https://github.com/jdnei/kendeji)
+
+---
+
 ### 04. 69云专线机场
 官网最新地址：[china.69yun69.net](https://to.iix.im/6903)<!-- 69yun / Monitor ID 45 / TCP 443 / 绿色 -->
 <img src="https://dot.331024.xyz/dot/45.svg?type=http" width="10" height="10" alt="status">
 </br>
 ✅周期性套餐丨❌不限时套餐丨✅家宽丨✅专线</br>
-优势：老牌的专线机场，价格适中，带多地住宅代理</br>
+优势：老牌的专线机场，价格便宜，带多地住宅代理</br>
 ✅[测评](https://github.com/jdnei/69yun)
 
 ---
