@@ -163,7 +163,7 @@
 <a id="value"></a>
 ## 💰 性价比系列
 ### 01. 魔戒机场
-最新官网地址：[mojie.co](https://to.iix.im/mj10)<!-- mojie / Monitor ID 24 / HTTP / 绿色 -->
+最新官网地址：[mojie.co](https://to.iix.im/mj05)<!-- mojie / Monitor ID 24 / HTTP / 绿色 -->
 <img src="https://dot.331024.xyz/dot/24.svg?type=http" width="10" height="10" alt="status">
 </br>
 ❌周期性套餐丨✅不限时套餐丨❌家宽</br>
