@@ -130,7 +130,7 @@
 
 ### 06. 西部数据机场
 官网最新地址：[wd-gold.net](https://to.iix.im/xs01)<!-- xibushuju / Monitor ID 48 / TCP $$# / 黄色 -->
-<img src="https://dot.331024.xyz/dot/48.svg?type=http" width="10" height="10" alt="status">
+<img src="https://dot.331024.xyz/dot/48.svg?type=cf" width="10" height="10" alt="status">
 </br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌机场很火，不好用**能退款**，应该都听说过，可以试试</br>
