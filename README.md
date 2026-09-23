@@ -4,20 +4,20 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# 2026最新好用的机场推荐与节点分享(2026年9月23日更新)
+# 2026最新好用的机场推荐与节点分享(2026年9月29日更新)
 <p align="center">
-  <img src="https://img.shields.io/github/stars/jdnei/JiChangTuiJian?style=flat-square" alt="stars">
-  <img src="https://img.shields.io/github/forks/jdnei/JiChangTuiJian?style=flat-square" alt="forks">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jdnei.JiChangTuiJian" alt="visitors">
-  <img src="https://img.shields.io/github/last-commit/jdnei/JiChangTuiJian?style=flat-square" alt="last commit">
-  <img src="https://img.shields.io/github/license/jdnei/JiChangTuiJian?style=flat-square" alt="license">
+ <img src="https://img.shields.io/github/stars/jdnei/JiChangTuiJian?style=flat-square" alt="stars">
+ <img src="https://img.shields.io/github/forks/jdnei/JiChangTuiJian?style=flat-square" alt="forks">
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=jdnei.JiChangTuiJian" alt="visitors">
+ <img src="https://img.shields.io/github/last-commit/jdnei/JiChangTuiJian?style=flat-square" alt="last commit">
+ <img src="https://img.shields.io/github/license/jdnei/JiChangTuiJian?style=flat-square" alt="license">
 </p>
 
 <p align="center">
-  <a href="#purchasing">购买前请先看</a> ·
-  <a href="#tg">TG群组</a> ·
-  <a href="#contrast">机场对比</a> ·
-  <a href="#client">客户端推荐</a> 
+ <a href="#purchasing">购买前请先看</a> ·
+ <a href="#tg">TG群组</a> ·
+ <a href="#contrast">机场对比</a> ·
+ <a href="#client">客户端推荐</a> 
 </p>
 
 <a id="purchasing"></a>
