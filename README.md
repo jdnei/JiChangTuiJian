@@ -403,7 +403,7 @@
 ---
 
 ### 06. NianYun念云机场
-官网最新地址：[xnyun.wiki](https://to.iix.im/xny01)</br>
+官网最新地址：[nianyun.cloud](https://to.iix.im/xny01)</br>
 ✅周期性套餐丨✅不限时套餐丨✅家宽丨✅专线丨✅Emby服务</br>
 优势：平时爱折腾，不在乎总更新订阅，但平时有各地家宽需求的用户，可做备选</br>
 ✅[测评](https://github.com/jdnei/nianyun)
