@@ -151,14 +151,6 @@
 
 ---
 
-### 08. 98K机场
-官网最新地址：[98kjc.top](https://to.iix.im/98k10)<!-- 98k / Monitor ID 23 / HTTP / 绿色 -->
-<img src="https://dot.331024.xyz/dot/23.svg?type=http" width="10" height="10" alt="status">
-</br>
-✅周期性套餐丨✅不限时套餐丨❌家宽丨✅专线</br>
-优势：提供专线，老牌机场，运营多年，在花频道和v2rayNG力荐</br>
-✅[测评](https://github.com/jdnei/98k)
-
 
 <a id="value"></a>
 ## 💰 性价比系列
@@ -346,15 +338,7 @@
 
 ---
 
-### 10. V2PAW机场
-官网最新地址：[dash.v2paw.com](https://to.iix.im/v201)<!-- v2paw / Monitor ID 38 / HTTP / 绿色 -->
-<img src="https://dot.331024.xyz/dot/38.svg?type=http" width="10" height="10" alt="status">
-</br>
-✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
-优势：老牌专线机场，测速频道、翻翻强FFQ论坛极力推荐</br>
-✅[测评](https://github.com/jdnei/v2paw)
 
----
 
 <a id="specialty"></a>
 ## ✨ 特色系列
