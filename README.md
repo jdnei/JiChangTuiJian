@@ -76,7 +76,7 @@
 <a id="standard"></a>
 ## 📦 普通系列
 ### 01. NiceCloud机场
-官网最新地址：[nicecloud.me](https://to.iix.im/nc02)<!-- NiceCloud / Monitor ID 17 / HTTP / 绿色 -->
+官网最新地址：[nicecloud.cyou](https://to.iix.im/nc03)<!-- NiceCloud / Monitor ID 17 / HTTP / 绿色 -->
 <img src="https://dot.331024.xyz/dot/17.svg?type=http" width="10" height="10" alt="status">
 </br>
 
