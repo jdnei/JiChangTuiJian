@@ -413,7 +413,7 @@
 官网最新地址：[www.kdcloud.uk](https://to.iix.im/kg01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线丨✅Emby</br>
 优势：带了几条专线，有流量结转，有闲时低倍率节点，带Emby影视服务</br>
-✅[测评](https://github.com/jdnei/xingdaomeng)</br>
+✅[测评](https://github.com/jdnei/koodog)</br>
 
 ---
 
