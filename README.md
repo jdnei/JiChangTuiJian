@@ -134,7 +134,7 @@
 </br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌机场很火，不好用**能退款**，应该都听说过，可以试试</br>
-✅[测评](https://github.com/jdnei/suying666)
+✅[测评](https://github.com/jdnei/WestData)
 
 ---
 
