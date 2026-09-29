@@ -398,16 +398,10 @@
 优势：提供基础节点的同时，不限制连接设备数量，适合设备多，用量不大的</br>
 ✅[测评](https://github.com/jdnei/speedcat)
 
----
 
-### 08. 飞鸟云机场
-官网最新地址：[fbweb03.flyingbird.la](https://fbweb03.flyingbird.la/auth/register?code=T7N16oUx)</br>
-✅周期性套餐丨❌不限时套餐丨❌家宽丨✅客户端</br>
-优势：只能客户端了，不会用FQ软件的推荐</br>
-✅[测评](https://github.com/jdnei/flyingbird)</br>
 
 ---
-### 09. KooDog酷狗机场
+### 08. KooDog酷狗机场
 官网最新地址：[www.kdcloud.uk](https://to.iix.im/kg01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅不限设备数丨✅专线丨✅Emby</br>
 优势：带了几条专线，有流量结转，有闲时低倍率节点，带Emby影视服务</br>
