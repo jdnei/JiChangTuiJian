@@ -8,9 +8,12 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/jdnei/JiChangTuiJian?style=flat-square" alt="stars">
   <img src="https://img.shields.io/github/forks/jdnei/JiChangTuiJian?style=flat-square" alt="forks">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jdnei.JiChangTuiJian" alt="visitors">
+
   <img src="https://img.shields.io/github/last-commit/jdnei/JiChangTuiJian?style=flat-square" alt="last commit">
+  <!-- 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jdnei.JiChangTuiJian" alt="visitors">
   <img src="https://img.shields.io/github/license/jdnei/JiChangTuiJian?style=flat-square" alt="license">
+-->
 </p>
 
 <p align="center">
