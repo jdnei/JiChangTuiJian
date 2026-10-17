@@ -168,7 +168,7 @@
 ---
 
 ### 02. 八戒机场
-最新官网地址：[bajie.la](https://to.iix.im/bj01)<!-- bajie / Monitor ID 25 / HTTP / 绿色 -->
+最新官网地址：[bajie.la](https://to.iix.im/bj02)<!-- bajie / Monitor ID 25 / HTTP / 绿色 -->
 <img src="https://dot.331024.xyz/dot/25.svg?type=http" width="10" height="10" alt="status">
 </br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
