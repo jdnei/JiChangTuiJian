@@ -247,7 +247,7 @@
 ## 🚀 专线系列
 
 ### 01. byg白月光专线机场
-官网最新地址：[bygcloud.com](https://to.iix.im/byg01)<!-- byd / Monitor ID 32 / HTTP / 绿色 -->
+官网最新地址：[bygcloud.com](https://to.iix.im/byg02)<!-- byd / Monitor ID 32 / HTTP / 绿色 -->
 <img src="https://dot.331024.xyz/dot/32.svg?type=http" width="10" height="10" alt="status">
 </br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
