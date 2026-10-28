@@ -95,7 +95,7 @@
 <img src="https://dot.331024.xyz/dot/18.svg?type=http" width="10" height="10" alt="status">
 </br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽</br>
-优势：速度中规中矩，图个省心，老牌子机场算便宜的</br>
+优势：速度中规中矩，图个省心，支持openwrt软路由，老牌子机场算便宜的</br>
 ✅[测评](https://github.com/jdnei/gougou)</br>
 
 ---
