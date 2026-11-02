@@ -155,6 +155,15 @@
 
 ---
 
+### 08. rancho牧场物语机场
+官网最新地址：[mm.mcwy.pro](https://to.iix.im/mcwy04)</br><!-- ssrdog / Monitor ID 51 / HTTP / 绿色 -->
+<img src="https://dot.331024.xyz/dot/51.svg?type=http" width="10" height="10" alt="status">
+</br>
+✅周期性套餐丨❌不限时套餐丨✅家宽丨✅专线</br>
+优势：老牌机场了，有专线，有家宽，缺点贵，比较稳定</br>
+✅[测评](https://github.com/jdnei/mcwy)
+
+---
 
 <a id="value"></a>
 ## 💰 性价比系列
