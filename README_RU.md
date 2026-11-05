@@ -2,7 +2,7 @@
 
 
 
-# Лучшие VPN-сервисы и серверы в 2026 году (обновлено 4 ноября 2026)
+# Лучшие VPN-сервисы и серверы в 2026 году (обновлено 5 ноября 2026)
 <p align="center">
   <img src="https://img.shields.io/github/stars/jdnei/JiChangTuiJian?style=flat-square" alt="stars">
   <img src="https://img.shields.io/github/forks/jdnei/JiChangTuiJian?style=flat-square" alt="forks">
