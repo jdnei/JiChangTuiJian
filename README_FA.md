@@ -2,7 +2,7 @@
 
 
 
-# معرفی بهترین سرویس‌ها و سرورهای VPN در سال ۲۰۲۶ (به‌روزرسانی 9 نوامبر 2026)
+# معرفی بهترین سرویس‌ها و سرورهای VPN در سال ۲۰۲۶ (به‌روزرسانی 10 نوامبر 2026)
 <p align="center">
   <img src="https://img.shields.io/github/stars/jdnei/JiChangTuiJian?style=flat-square" alt="stars">
   <img src="https://img.shields.io/github/forks/jdnei/JiChangTuiJian?style=flat-square" alt="forks">
