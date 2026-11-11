@@ -297,7 +297,15 @@
 
 ---
 
-### 05. LanYun博纳蓝云专线机场
+### 05. Mesl专线机场
+官网最新地址：[getmesl.com](https://to.iix.im/mesl01)</br>
+✅周期性套餐丨❌不限时套餐丨✅家宽丨✅专线</br>
+优势：老牌专线机场，稳定，年付可到¥12.92/月，50G流量AI用合适</br>
+✅[测评](https://github.com/jdnei/kendeji)
+
+---
+
+### 06. LanYun博纳蓝云专线机场
 官网最新地址：[lanyun.org](https://to.iix.im/lan01)<!-- lanyun / Monitor ID 47 / HTTP / 绿色 -->
 <img src="https://dot.331024.xyz/dot/47.svg?type=http" width="10" height="10" alt="status">
 </br>
@@ -307,7 +315,7 @@
 
 ---
 
-### 06. 69云专线机场
+### 07. 69云专线机场
 官网最新地址：[china.69yun69.net](https://to.iix.im/6903)<!-- 69yun / Monitor ID 45 / TCP 443 / 绿色 -->
 <img src="https://dot.331024.xyz/dot/45.svg?type=http" width="10" height="10" alt="status">
 </br>
@@ -317,7 +325,7 @@
 
 ---
 
-### 07. 绿叶云专线机场
+### 08. 绿叶云专线机场
 官网最新地址：[linkcube.org](https://to.iix.im/ly02)<!-- lvye / Monitor ID 35 / TCP 443 / 黄色 -->
 <img src="https://dot.331024.xyz/dot/35.svg?type=cf" width="10" height="10" alt="status">
 </br>
@@ -329,7 +337,7 @@
 
 
 
-### 08. 花云机场
+### 09. 花云机场
 官网最新地址：[flowercloud.net](https://to.iix.im/fc01)<!-- huayun / Monitor ID 36 / TCP 443 / 黄色 -->
 <img src="https://dot.331024.xyz/dot/36.svg?type=cf" width="10" height="10" alt="status">
 </br>
@@ -339,7 +347,7 @@
 
 ---
 
-### 09. 奶昔机场
+### 10. 奶昔机场
 官网最新地址：[nxonearth.com](https://to.iix.im/nx01)<!-- naixi / Monitor ID 37 / TCP 443 / 黄色 -->
 <img src="https://dot.331024.xyz/dot/37.svg?type=cf" width="10" height="10" alt="status">
 </br>
