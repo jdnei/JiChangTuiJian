@@ -303,7 +303,7 @@
 </br>
 ✅周期性套餐丨❌不限时套餐丨✅家宽丨✅专线</br>
 优势：老牌专线机场，稳定，年付可到¥12.92/月，50G流量AI用合适</br>
-✅[测评](https://github.com/jdnei/kendeji)
+✅[测评](https://github.com/jdnei/mesl)
 
 ---
 
