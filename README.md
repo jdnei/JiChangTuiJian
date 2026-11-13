@@ -369,7 +369,7 @@
 ### 01. EdNovas机场
 官网最新地址：[se.av.bingo](https://to.iix.im/ed01)</br>
 ✅周期性套餐丨✅不限时套餐丨✅Emby服务丨✅回国节点</br>
-优势：老牌，带Emby观影，有回国节点(英文套餐)，留子可用，国内用只能客户端</br>
+优势：老牌，带Emby观影，有回国节点(英文套餐)，留子可用，国内套餐，拉配置文件，无订阅链接</br>
 ✅[测评](https://github.com/jdnei/ednovas)
 
 ---
