@@ -424,11 +424,20 @@
 
 
 ---
+
 ### 08. KooDog酷狗机场
 官网最新地址：[www.kdcloud.uk](https://to.iix.im/kg01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅不限设备数丨✅专线丨✅Emby</br>
 优势：带了几条专线，有流量结转，有闲时低倍率节点，带Emby影视服务</br>
 ✅[测评](https://github.com/jdnei/koodog)</br>
+
+---
+
+### 09. 9527专线机场
+官网最新地址：[9omvqop5.9527.now](https://to.iix.im/952701)</br>
+✅周期性套餐丨✅不限时套餐丨❌家宽丨✅不限设备数丨✅专线</br>
+优势：AI稳定，专线线路，小流量，9元/月</br>
+✅[测评](https://github.com/jdnei/9527)</br>
 
 ---
 
