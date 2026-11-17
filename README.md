@@ -337,7 +337,7 @@
 官网最新地址：[linkcube.org](https://to.iix.im/ly02)<!-- lvye / Monitor ID 35 / TCP 443 / 黄色 -->
 <img src="https://dot.331024.xyz/dot/35.svg?type=cf" width="10" height="10" alt="status">
 </br>
-✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
+✅周期性套餐丨❌不限时套餐丨✅家宽丨✅专线</br>
 优势：用稍微便宜的价格，体验专线，三个套餐清晰无套路</br>
 ✅[测评](https://github.com/jdnei/linkcube)
 
