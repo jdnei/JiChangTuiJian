@@ -107,8 +107,8 @@
 最新官网地址：[guga.cloud](https://to.iix.im/gu01)<!-- naiyun / Monitor ID 20 / HTTP / 绿色 -->
 <img src="https://dot.331024.xyz/dot/20.svg?type=http" width="10" height="10" alt="status">
 </br>
-✅周期性套餐丨✅不限时套餐丨❌家宽</br>
-优势：提供58+节点，带很多冷门地区，尼日利亚，土耳其等等不太常用且实用的节点。还带~~5条家宽~~！</br>
+✅周期性套餐丨✅不限时套餐丨❌家宽丨✅专线</br>
+优势：自有机房，专线，cn2、cug和cmi的线路，50+节点，年付可做到14元/月</br>
 ✅[测评](https://github.com/jdnei/guga)</br>
 
 
