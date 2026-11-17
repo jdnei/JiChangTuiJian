@@ -212,7 +212,7 @@
 <img src="https://dot.331024.xyz/dot/44.svg?type=http" width="10" height="10" alt="status">
 </br>
 ✅周期性套餐丨❌不限时套餐丨✅家宽</br>
-优势：多个国家的住宅代理，带有常用节点，价格便宜，价格敏感对速度要求不高的可选。</br>
+优势：多个国家的住宅代理，贵套餐有专线，可根据需要自己设置转发，5.8元/月/1T。</br>
 ✅[测评](https://github.com/jdnei/stepfly)</br>
 
 ---
