@@ -317,8 +317,8 @@
 官网最新地址：[lanyun.org](https://to.iix.im/lan01)<!-- lanyun / Monitor ID 47 / HTTP / 绿色 -->
 <img src="https://dot.331024.xyz/dot/47.svg?type=http" width="10" height="10" alt="status">
 </br>
-✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
-优势：优先客户端，订阅只支持小火箭，以前做企业端，走金融专线，校园网友好专线机场，价格较贵</br>
+✅周期性套餐丨❌不限时套餐丨✅家宽丨✅专线</br>
+优势：优先客户端，订阅只支持小火箭，带部分家宽，以前做企业端，走金融专线，校园网友好专线机场，价格较贵</br>
 ✅[测评](https://github.com/jdnei/lanyun)
 
 ---
